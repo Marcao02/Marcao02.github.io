@@ -1,0 +1,27 @@
+section {
+	padding : 50px 0;
+}
+
+.container {
+    width: 70%;
+}
+
+#contact {
+	color: black!important;
+}
+
+
+.masthead {
+	background-image: url(../img/header.jpg)!important;
+}
+
+.portfolio-link > .img-fluid {
+	margin-bottom: 15px;
+	height: 100px;
+	width: 60%;
+}
+
+section#contact .section-heading {
+    color: inherit;
+	margin-bottom: 15px;
+}
