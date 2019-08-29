@@ -15,17 +15,14 @@ section {
 	background-image: url(../img/header.jpg)!important;
 }
 
-.masthead2 {
-	background-image: url(../img/header2.jpg)!important;
-}
-
 .portfolio-link > .img-fluid {
 	margin-bottom: 15px;
 	height: 100px;
-	width: 60%;
+	width: 100%;
 }
 
 section#contact .section-heading {
     color: inherit;
 	margin-bottom: 15px;
 }
+
