@@ -26,150 +26,137 @@
         <!-- Custom styles for this template -->
         <link href="css/agency.min.css" rel="stylesheet">
     	  <link href="css/agency_custom.css" rel="stylesheet">
-        <style>
-          body{
-            background-color: black;
-
-            color: #cccc99;
-          }
-          t2 {
-            color: white;
-          }
-
-</style>
   </head>
 
 
   <body id="page-top">
 
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top animated-nav" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Marcos Da Silveira</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          Menu
-          <i class="fas fa-bars"></i>
+        <a class="navbar-brand" href="index.html">Marcos Da Silveira</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav text-uppercase ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="publications.html">Publications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="projects.html">Projects</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html#aob">Activities</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html#bio">CV</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="index.html#contact">Contatct</a>
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="publications.html">Publications</a></li>
+            <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html#aob">Activities</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html#bio">CV</a></li>
+            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            <li class="nav-item d-flex align-items-center ml-lg-2">
+              <button id="themeToggle" class="btn btn-sm btn-outline-light" type="button" aria-label="Toggle dark mode">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+              </button>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <!-- Header -->
-    <header >
+    <!-- Mini Knowledge Graph (Publications Keyword Focus) -->
+    <section class="page-section bg-light" id="pub-kg">
       <div class="container">
-        <div class="intro-text">
-          <div class="intro-lead-in">
-            <br></br>
-
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Publication Keywords</h2>
+            <h3 class="section-subheading text-muted">Node size reflects frequency across all publications</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-9 mb-4">
+            <div class="border rounded bg-white position-relative p-2 shadow-sm" style="height:340px;">
+              <svg id="pubKgSvg" viewBox="0 0 680 340" role="img" aria-label="Publication keyword knowledge graph"></svg>
+              <!-- Inline fallback data so graph works when JSON fetch is blocked (e.g., file://) -->
+              <script id="kgData" type="application/json">{
+                "nodes": [
+                  { "id": "Ontology", "group": "KR", "size": 18 },
+                  { "id": "Semantic Web", "group": "KR", "size": 14 },
+                  { "id": "Knowledge Graphs", "group": "KR", "size": 16 },
+                  { "id": "Skills", "group": "KR", "size": 16 },
+                  { "id": "Explainable AI", "group": "AI", "size": 12 },
+                  { "id": "Hybrid AI", "group": "AI", "size": 13 },
+                  { "id": "Machine Learning", "group": "AI", "size": 15 },
+                  { "id": "Clinical Guidelines", "group": "eHealth", "size": 11 },
+                  { "id": "eHealth", "group": "eHealth", "size": 14 },
+                  { "id": "Data Sharing", "group": "eHealth", "size": 10 }
+                ],
+                "links": [
+                  { "source": "Ontology", "target": "Semantic Web", "weight": 2 },
+                  { "source": "Ontology", "target": "Knowledge Graphs", "weight": 3 },
+                  { "source": "Knowledge Graphs", "target": "Hybrid AI", "weight": 2 },
+                  { "source": "Knowledge Graphs", "target": "Skills", "weight": 3 },
+                  { "source": "Hybrid AI", "target": "Explainable AI", "weight": 1 },
+                  { "source": "Machine Learning", "target": "Hybrid AI", "weight": 2 },
+                  { "source": "eHealth", "target": "Clinical Guidelines", "weight": 2 },
+                  { "source": "eHealth", "target": "Data Sharing", "weight": 1 },
+                  { "source": "Ontology", "target": "eHealth", "weight": 1 }
+                ]
+              }</script>
+            </div>
+          </div>
+          <div class="col-lg-3 mb-4">
+            <div class="small text-muted">Interactive keyword network extracted from the BibTeX file. Drag nodes, hover to focus related topics.</div>
+            <ul class="small mt-2 mb-0">
+              <li>Size: frequency</li>
+              <li>Color: thematic cluster</li>
+              <li>Layout: force-directed</li>
+            </ul>
           </div>
         </div>
       </div>
-    </header>
+    </section>
+  <!-- (Removed stray duplicated nav list markup that broke DOM) -->
 
-      <div class="row">
-       <div class="col-md-2">
-         <a href="./index.html">
-         <img class="rounded-circle img-fluid" style="width: 60%" src="img/team/mdasilveira2.jpg"/></a>
-
-         <a href="./index.html"><h2>Dr. Marcos Da Silveira</h2> </a>
-
-
-         <a href="https://www.list.lu/">Luxembourg Institute of Science and Technology</a> <br/>
-         5, avenue des Hauts-Fourneaux <br/>
-         L-4362 Esch-sur-Alzette <br/>
-         Luxembourg<br/>
-         <br/>
-
-         <p>
-           <h3>Post-Doc advisor</h3>
-           <ul>
-             <li> Cédric Pruski - end 2010 </li>
-             <li> Rodrigo Bonacin - end 2011 </li>
-             <li> Asma Ben Abacha - end 2014 </li>
-             <li> Bah-Duy Dinh - end 2015 </li>
-             <li> Thu Huong Nguyen - end 2026 </li>
-           </ul>
-         </p>
-
-         <p>
-           <h3>PhD Supervision</h3>
-           <ul>
-             <li> Julio César dos Reis - end 2014 </li>
-             <li> Emna Mezghani - end 2016 </li>
-             <li> Veruska Zamborlini - end 2017 </li>
-             <li> Silvio Cardoso - end 2018 </li>
-             <li> Jader Martins - end 2027 </li>
-           </ul>
-         </p>
-
-         <p>
-           <h3>Links:</h3>
-           <ul>
-             <li><a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html">Advices to Prepare a PhD</a></li>
-             <li><a href="http://www.euraxess.lu/">Guide to come to Luxembourg</a></li>
-           </ul>
-         </p>
-
-         <p>
-           <h3><a href="https://orcid.org/0000-0002-2604-3645">ORCID:</a></h3>
-           <ul>
-             <a> href="https://orcid.org/0000-0002-2604-3645"> 
-               <img style="width: 60%" src="img/ORCID.png"/></a>
-           </ul>
-         </p>
-         <div class="spacer">
-
-        </div>
-      </div>
-
-    <section id="banner" class=" ">
-
+    <section class="page-section" id="pub-list">
       <div class="container">
-
         <div class="row">
-          <div class="col-md-12">
-            <p>See my <a target="_blank" href="https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ">publications on Google Scholar</a> and my
-            <a target="_blank" href="https://www.mendeley.com/profiles/marcos-da-silveira3/">publications on Mendeley</a>, or see this page below for a hand-curated list.
-              This page is generated by <a target="_blank" href="http://www.bibbase.org/">BibBase</a> from a <a href="https://raw.githubusercontent.com/Marcao02/Marcao02.github.io/master/Marcos.bib">bibliographyfile</a>. Items can be sorted by year, keyword and/or co-author.
-              <BR><BR>
-
-                (please give <a target="_blank" href="http://www.bibbase.org/">BibBase</a> a minute to load the list below....)
-              </p>
-
-          </div><!--col-->
-        </div><!--row-->
-
-        <div class="row">
-          <div class="col-md-12">
+          <div class="col-lg-9 order-lg-1 mb-5 mb-lg-0">
+            <h2 class="section-heading text-uppercase">Publications</h2>
+            
             <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Marcao02/Marcao02.github.io/master/Marcos.bib&jsonp=1"></script>
+            <div id="localPubContainer">
+              <div id="localPubList" class="border rounded bg-white p-3 shadow-sm"></div>
+            </div>
+          </div>
+          <div class="col-lg-3 order-lg-2">
+            <div class="mb-4">
+              <h5>Post-Doc Advisors</h5>
+              <ul class="small pl-3 mb-3">
+                <li>Cédric Pruski (2010)</li>
+                <li>Rodrigo Bonacin (2011)</li>
+                <li>Asma Ben Abacha (2014)</li>
+                <li>Bah-Duy Dinh (2015)</li>
+                <li>Thu Huong Nguyen (2026)</li>
+              </ul>
+            </div>
+            <div class="mb-4">
+              <h5>PhD Supervision</h5>
+              <ul class="small pl-3 mb-3">
+                <li>Julio César dos Reis (2014)</li>
+                <li>Emna Mezghani (2016)</li>
+                <li>Veruska Zamborlini (2017)</li>
+                <li>Silvio Cardoso (2018)</li>
+                <li>Jader Martins (2027)</li>
+              </ul>
+            </div>
+            <div class="mb-4">
+              <h5>Links</h5>
+              <ul class="small pl-3 mb-0">
+                <li><a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html">Prepare a PhD</a></li>
+                <li><a href="http://www.euraxess.lu/">Coming to Luxembourg</a></li>
+              </ul>
+            </div>
+            <div>
+              <a href="https://orcid.org/0000-0002-2604-3645" class="small" target="_blank" rel="noopener">ORCID Profile</a>
+            </div>
           </div>
         </div>
-      </div><!--container-->
-
+      </div>
     </section>
 
 
@@ -187,6 +174,31 @@
           <!-- Custom scripts for this template -->
           <script src="js/agency.min.js"></script>
 
+          <!-- D3 + Knowledge Graph -->
+          <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js" defer></script>
+          <script src="js/knowledge_graph.js" defer></script>
+          <script src="js/publications.js" defer></script>
+          <script>
+            document.addEventListener('DOMContentLoaded', function(){
+              // Theme restore
+              const root = document.documentElement;
+              const saved = localStorage.getItem('theme');
+              if(saved==='dark') root.setAttribute('data-theme','dark');
+              // Init knowledge graph
+              if(window.initKnowledgeGraph){
+                initKnowledgeGraph({ svgSelector:'#pubKgSvg', json:'data/knowledge_graph.json', legend:true, observe:true });
+              }
+              // Theme toggle reuse
+              const toggle = document.getElementById('themeToggle');
+              toggle?.addEventListener('click', ()=>{
+                const dark = root.getAttribute('data-theme')==='dark';
+                if(dark){ root.removeAttribute('data-theme'); localStorage.setItem('theme',''); }
+                else { root.setAttribute('data-theme','dark'); localStorage.setItem('theme','dark'); }
+              });
+              // Force local publications rendering (we removed external BibBase reference)
+              if(window.renderLocalPublications){ window.renderLocalPublications(); }
+            });
+          </script>
   </body>
 
 </html>

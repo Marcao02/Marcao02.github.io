@@ -1,0 +1,1185 @@
+{
+  "publications": [
+    {
+      "title": "Sur la distribution avec redondance partielle de mod{\\`e",
+      "keywords": [
+        "Avec",
+        "Distribution",
+        "Partielle",
+        "Redondance"
+      ]
+    },
+    {
+      "title": "Supervision and control of heterarchical discrete event systems",
+      "keywords": [
+        "Control",
+        "Discrete",
+        "Event",
+        "Heterarchical",
+        "Supervision",
+        "Systems"
+      ]
+    },
+    {
+      "title": "From centralized to distributed models: A systematic procedure based on Petri nets",
+      "keywords": [
+        "Centralized",
+        "Distributed",
+        "Nets",
+        "Petri",
+        "Procedure",
+        "Systematic"
+      ]
+    },
+    {
+      "title": "Prognosis and recovery evaluation in flexible manufacturing supervision",
+      "keywords": [
+        "Flexible",
+        "Manufacturing",
+        "Prognosis",
+        "Recovery",
+        "Supervision"
+      ]
+    },
+    {
+      "title": "Supervision and control of heterarchical discrete event systems: The laas approach",
+      "keywords": [
+        "Control",
+        "Discrete",
+        "Event",
+        "Heterarchical",
+        "Laas",
+        "Supervision",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Distribution de mod{\\`e",
+      "keywords": [
+        "Distribution"
+      ]
+    },
+    {
+      "title": "A methodology for modeling the control of a mechatronic manufacturing cell",
+      "keywords": [
+        "Cell",
+        "Control",
+        "Manufacturing",
+        "Mechatronic",
+        "Methodology",
+        "Modeling"
+      ]
+    },
+    {
+      "title": "REUTILIZATION OF CONTROL SOFTWARE MODULES IN DESIGN OF AUTOMATED MANUFACTURING SYSTEMS",
+      "keywords": [
+        "Automated",
+        "Control",
+        "Design",
+        "Manufacturing",
+        "Modules",
+        "Reutilization",
+        "Software",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Redundant Information Analysis in a Decomposed Petri Net Model",
+      "keywords": [
+        "Decomposed",
+        "Information",
+        "Petri",
+        "Redundant"
+      ]
+    },
+    {
+      "title": "AN APPROACH TO THE DEVELOPMENT CYCLE OF AUTOMATED MANUFACTURING SYSTEMS",
+      "keywords": [
+        "Automated",
+        "Cycle",
+        "Development",
+        "Manufacturing",
+        "Systems"
+      ]
+    },
+    {
+      "title": "From medical guidelines to personalized careflows: The iCareflow ontological framework",
+      "keywords": [
+        "Careflows",
+        "Guidelines",
+        "Icareflow",
+        "Medical",
+        "Ontological",
+        "Personalized"
+      ]
+    },
+    {
+      "title": "IT infrastructure for National Electronic Health Records in Luxembourg--Acceptance occurs when benefits outweigh disadvantages",
+      "keywords": [
+        "Benefits",
+        "Disadvantages",
+        "Electronic",
+        "Health",
+        "Infrastructure",
+        "Luxembourg--acceptance",
+        "National",
+        "Occurs",
+        "Outweigh",
+        "Records",
+        "When"
+      ]
+    },
+    {
+      "title": "Protecting patient privacy when sharing medical data",
+      "keywords": [
+        "Data",
+        "Medical",
+        "Patient",
+        "Privacy",
+        "Protecting",
+        "Sharing",
+        "When"
+      ]
+    },
+    {
+      "title": "Barriers to overcome for the implementation of integrated eHealth solution in Luxembourg",
+      "keywords": [
+        "eHealth",
+        "Barriers",
+        "Implementation",
+        "Integrated",
+        "Luxembourg",
+        "Overcome",
+        "Solution"
+      ]
+    },
+    {
+      "title": "Towards the formalization of guidelines care actions using patterns and semantic web technologies",
+      "keywords": [
+        "Semantic Web",
+        "Actions",
+        "Care",
+        "Formalization",
+        "Guidelines",
+        "Patterns",
+        "Technologies"
+      ]
+    },
+    {
+      "title": "Web2Touch Track Report: 5th Track on Modeling the Collaborative Web Knowledge",
+      "keywords": [
+        "Collaborative",
+        "Knowledge",
+        "Modeling",
+        "Report",
+        "Touch",
+        "Track"
+      ]
+    },
+    {
+      "title": "Toward an adaptive computer-interpretable clinical guideline for personalization of treatments",
+      "keywords": [
+        "Clinical Guidelines",
+        "Computer-interpretable",
+        "Personalization",
+        "Treatments"
+      ]
+    },
+    {
+      "title": "W2T 2009",
+      "keywords": []
+    },
+    {
+      "title": "Analyzing and supporting the mapping maintenance problem in biomedical knowledge organization systems",
+      "keywords": [
+        "Mapping",
+        "Analyzing",
+        "Biomedical",
+        "Knowledge",
+        "Organization",
+        "Problem",
+        "Supporting",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Careflow personalization services: concepts and tool for the evaluation of computer-interpretable guidelines",
+      "keywords": [
+        "Careflow",
+        "Computer-interpretable",
+        "Concepts",
+        "Guidelines",
+        "Personalization",
+        "Services",
+        "Tool"
+      ]
+    },
+    {
+      "title": "Vers une approche automatique pour la maintenance des mappings entre ressources termino-ontologiques du domaine de la sant{\\'e",
+      "keywords": [
+        "Mapping",
+        "Mapping",
+        "Approche",
+        "Automatique",
+        "Domaine",
+        "Entre",
+        "Pour",
+        "Ressources",
+        "Sant",
+        "Termino-ontologiques",
+        "Vers"
+      ]
+    },
+    {
+      "title": "The concept of a platform for remote monitoring patient’s health state",
+      "keywords": [
+        "Concept",
+        "Health",
+        "Monitoring",
+        "Patient",
+        "Remote",
+        "State"
+      ]
+    },
+    {
+      "title": "A survey of interoperability in e-Health systems: The European approach",
+      "keywords": [
+        "eHealth",
+        "European",
+        "Interoperability",
+        "Survey",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Exploiting Service Oriented Architectures for the Design of e-Health systems",
+      "keywords": [
+        "eHealth",
+        "Architectures",
+        "Design",
+        "Exploiting",
+        "Oriented",
+        "Service",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Medical ontology validation through question answering",
+      "keywords": [
+        "Ontology",
+        "Answering",
+        "Medical",
+        "Question",
+        "Through",
+        "Validation"
+      ]
+    },
+    {
+      "title": "Analyzing the Evolution of Semantic Correspondences between SNOMED CT and ICD-9-CM",
+      "keywords": [
+        "Analyzing",
+        "Correspondences",
+        "Evolution",
+        "Icd-",
+        "Semantic",
+        "Snomed"
+      ]
+    },
+    {
+      "title": "Une approche pour la validation du contenu d’une ontologie par un syst{\\`e",
+      "keywords": [
+        "Approche",
+        "Contenu",
+        "Ontologie",
+        "Pour",
+        "Syst",
+        "Validation"
+      ]
+    },
+    {
+      "title": "Identification des informations conceptuelles d{\\'e",
+      "keywords": [
+        "Conceptuelles",
+        "Identification",
+        "Informations"
+      ]
+    },
+    {
+      "title": "Understanding semantic mapping evolution by observing changes in biomedical ontologies",
+      "keywords": [
+        "Ontology",
+        "Mapping",
+        "Biomedical",
+        "Changes",
+        "Evolution",
+        "Observing",
+        "Semantic",
+        "Understanding"
+      ]
+    },
+    {
+      "title": "Mapping adaptation actions for the automatic reconciliation of dynamic ontologies",
+      "keywords": [
+        "Ontology",
+        "Mapping",
+        "Actions",
+        "Adaptation",
+        "Automatic",
+        "Reconciliation"
+      ]
+    },
+    {
+      "title": "Characterizing semantic mappings adaptation via biomedical kos evolution: A case study investigating snomed ct and icd",
+      "keywords": [
+        "Mapping",
+        "Mapping",
+        "Adaptation",
+        "Biomedical",
+        "Characterizing",
+        "Evolution",
+        "Investigating",
+        "Semantic",
+        "Snomed"
+      ]
+    },
+    {
+      "title": "Identifying change patterns of concept attributes in ontology evolution",
+      "keywords": [
+        "Ontology",
+        "Attributes",
+        "Change",
+        "Concept",
+        "Evolution",
+        "Identifying",
+        "Patterns"
+      ]
+    },
+    {
+      "title": "Architecture and services for formalising and evaluating care actions from computer-interpretable guidelines",
+      "keywords": [
+        "Actions",
+        "Architecture",
+        "Care",
+        "Computer-interpretable",
+        "Evaluating",
+        "Formalising",
+        "Guidelines",
+        "Services"
+      ]
+    },
+    {
+      "title": "The influence of similarity between concepts in evolving biomedical ontologies for mapping adaptation",
+      "keywords": [
+        "Ontology",
+        "Mapping",
+        "Adaptation",
+        "Biomedical",
+        "Concepts",
+        "Influence",
+        "Similarity"
+      ]
+    },
+    {
+      "title": "Requirements for Implementing Mappings Adaptation Systems",
+      "keywords": [
+        "Mapping",
+        "Mapping",
+        "Adaptation",
+        "Implementing",
+        "Requirements",
+        "Systems"
+      ]
+    },
+    {
+      "title": "A Conceptual Model for Detecting Interactions among Medical Recommendations in Clinical Guidelines",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Recommendation",
+        "Recommendation",
+        "Among",
+        "Conceptual",
+        "Detecting",
+        "Interactions",
+        "Medical"
+      ]
+    },
+    {
+      "title": "A perspective of adaptation in healthcare",
+      "keywords": [
+        "Adaptation",
+        "Healthcare",
+        "Perspective"
+      ]
+    },
+    {
+      "title": "Towards a conceptual model for enhancing reasoning about clinical guidelines: A case-study on comorbidity",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "About",
+        "Case-study",
+        "Comorbidity",
+        "Conceptual",
+        "Enhancing",
+        "Reasoning"
+      ]
+    },
+    {
+      "title": "Recognizing lexical and semantic change patterns in evolving life science ontologies to inform mapping adaptation",
+      "keywords": [
+        "Semantic Change",
+        "Ontology",
+        "Mapping",
+        "Adaptation",
+        "Inform",
+        "Lexical",
+        "Life",
+        "Patterns",
+        "Recognizing",
+        "Science"
+      ]
+    },
+    {
+      "title": "Identifying relevant concept attributes to support mapping maintenance under ontology evolution",
+      "keywords": [
+        "Ontology",
+        "Mapping",
+        "Attributes",
+        "Concept",
+        "Evolution",
+        "Identifying",
+        "Relevant"
+      ]
+    },
+    {
+      "title": "DyKOSMap: A framework for mapping adaptation between biomedical knowledge organization systems",
+      "keywords": [
+        "Mapping",
+        "Adaptation",
+        "Biomedical",
+        "Dykosmap",
+        "Knowledge",
+        "Organization",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Integration of Computer Science Concepts into A Control and Automation Teaching Methodology: The Conception of A Didactic Laboratory",
+      "keywords": [
+        "Automation",
+        "Computer",
+        "Conception",
+        "Concepts",
+        "Control",
+        "Didactic",
+        "Integration",
+        "Laboratory",
+        "Methodology",
+        "Science",
+        "Teaching"
+      ]
+    },
+    {
+      "title": "The DyKOSMap approach for analyzing and supporting the mapping maintenance problem in biomedical knowledge organization systems",
+      "keywords": [
+        "Mapping",
+        "Analyzing",
+        "Biomedical",
+        "Dykosmap",
+        "Knowledge",
+        "Organization",
+        "Problem",
+        "Supporting",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Special issue on semantic technologies for collaborative web",
+      "keywords": [
+        "Collaborative",
+        "Issue",
+        "Semantic",
+        "Special",
+        "Technologies"
+      ]
+    },
+    {
+      "title": "Analyzing Recommendations Interactions in Clinical Guidelines",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Recommendation",
+        "Recommendation",
+        "Analyzing",
+        "Interactions"
+      ]
+    },
+    {
+      "title": "Management of Dynamic Biomedical Terminologies: Current Status and Future Challenges.",
+      "keywords": [
+        "Biomedical",
+        "Challenges",
+        "Current",
+        "Future",
+        "Management",
+        "Status",
+        "Terminologies"
+      ]
+    },
+    {
+      "title": "A Semantic Big Data Platform for Integrating Heterogeneous Wearable Data in Healthcare.",
+      "keywords": [
+        "Data",
+        "Healthcare",
+        "Heterogeneous",
+        "Integrating",
+        "Semantic",
+        "Wearable"
+      ]
+    },
+    {
+      "title": "Inferring Recommendation Interactions in Clinical Guidelines: Case-studies on Multimorbidity",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Recommendation",
+        "Case-studies",
+        "Inferring",
+        "Interactions",
+        "Multimorbidity"
+      ]
+    },
+    {
+      "title": "Generalizing the Detection of Internal and External Interactions in Clinical Guidelines",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Detection",
+        "Interactions"
+      ]
+    },
+    {
+      "title": "Skull failure correction modelling method by symmetry mirroring",
+      "keywords": [
+        "Correction",
+        "Failure",
+        "Mirroring",
+        "Modelling",
+        "Skull",
+        "Symmetry"
+      ]
+    },
+    {
+      "title": "Anatomic prosthesis modelling based on Descriptors by Cubic Bezier Curves",
+      "keywords": [
+        "Anatomic",
+        "Bezier",
+        "Cubic",
+        "Curves",
+        "Descriptors",
+        "Modelling",
+        "Prosthesis"
+      ]
+    },
+    {
+      "title": "An Ontology-driven Adaptive System for the Patient Treatment Management",
+      "keywords": [
+        "Ontology",
+        "Management",
+        "Patient",
+        "Treatment"
+      ]
+    },
+    {
+      "title": "Towards natural language question generation for the validation of ontologies and mappings",
+      "keywords": [
+        "Ontology",
+        "Mapping",
+        "Mapping",
+        "Generation",
+        "Language",
+        "Natural",
+        "Question",
+        "Validation"
+      ]
+    },
+    {
+      "title": "Evolution and Security of Collaborative Web Knowledge (Web2Touch) Track Committee",
+      "keywords": [
+        "Collaborative",
+        "Committee",
+        "Evolution",
+        "Knowledge",
+        "Security",
+        "Touch",
+        "Track"
+      ]
+    },
+    {
+      "title": "Analyzing Recommendations Interactions in Clinical Guidelines: Impact of action type hierarchies and causation beliefs",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Recommendation",
+        "Recommendation",
+        "Action",
+        "Analyzing",
+        "Beliefs",
+        "Causation",
+        "Hierarchies",
+        "Interactions",
+        "Type"
+      ]
+    },
+    {
+      "title": "Knowledge-driven Paper Retrieval to support updating of Clinical Guidelines",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Knowledge-driven",
+        "Retrieval",
+        "Updating"
+      ]
+    },
+    {
+      "title": "Complaint Ontology Pattern-COP",
+      "keywords": [
+        "Ontology",
+        "Complaint",
+        "Pattern-cop"
+      ]
+    },
+    {
+      "title": "Leveraging the impact of ontology evolution on semantic annotations",
+      "keywords": [
+        "Ontology",
+        "Annotations",
+        "Evolution",
+        "Leveraging",
+        "Semantic"
+      ]
+    },
+    {
+      "title": "Capturing the Relationship between Evolving Biomedical Concepts via Background Knowledge",
+      "keywords": [
+        "Background",
+        "Biomedical",
+        "Capturing",
+        "Concepts",
+        "Knowledge",
+        "Relationship"
+      ]
+    },
+    {
+      "title": "SWISH for prototyping Clinical Guideline Interactions Theory",
+      "keywords": [
+        "Clinical Guidelines",
+        "Interactions",
+        "Prototyping",
+        "Swish",
+        "Theory"
+      ]
+    },
+    {
+      "title": "Towards a multi-level approach for the maintenance of semantic annotations",
+      "keywords": [
+        "Annotations",
+        "Semantic"
+      ]
+    },
+    {
+      "title": "Generalizing the detection of clinical guideline interactions enhanced with LOD",
+      "keywords": [
+        "Clinical Guidelines",
+        "Detection",
+        "Enhanced",
+        "Interactions"
+      ]
+    },
+    {
+      "title": "Analyzing interactions on combining multiple clinical guidelines",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Analyzing",
+        "Interactions",
+        "Multiple"
+      ]
+    },
+    {
+      "title": "Enhancing control engineering education using a CACSD didactic environment",
+      "keywords": [
+        "Cacsd",
+        "Control",
+        "Didactic",
+        "Education",
+        "Engineering",
+        "Enhancing",
+        "Environment"
+      ]
+    },
+    {
+      "title": "Desenvolvimento de um Sistema Multim{\\'\\i",
+      "keywords": [
+        "Desenvolvimento",
+        "Multim",
+        "Sistema"
+      ]
+    },
+    {
+      "title": "Evaluating and improving annotation tools for medical forms",
+      "keywords": [
+        "Annotation",
+        "Evaluating",
+        "Forms",
+        "Improving",
+        "Medical",
+        "Tools"
+      ]
+    },
+    {
+      "title": "Combining rules, background knowledge and change patterns to maintain semantic annotations",
+      "keywords": [
+        "Annotations",
+        "Background",
+        "Change",
+        "Knowledge",
+        "Maintain",
+        "Patterns",
+        "Rules",
+        "Semantic"
+      ]
+    },
+    {
+      "title": "DyKOSMap: From a Research Prototype to a Web Application",
+      "keywords": [
+        "Application",
+        "Dykosmap",
+        "Prototype",
+        "Research"
+      ]
+    },
+    {
+      "title": "Inferring the evolution of ontology axioms from RDF data dynamics",
+      "keywords": [
+        "Ontology",
+        "Axioms",
+        "Data",
+        "Dynamics",
+        "Evolution",
+        "Inferring"
+      ]
+    },
+    {
+      "title": "Choices and internet service management",
+      "keywords": [
+        "Choices",
+        "Internet",
+        "Management",
+        "Service"
+      ]
+    },
+    {
+      "title": "Web2Touch 2014 Modeling the Collaborative Web Knowledge",
+      "keywords": [
+        "Collaborative",
+        "Knowledge",
+        "Modeling",
+        "Touch"
+      ]
+    },
+    {
+      "title": "“Foreword Web2Touch: Living experience through the web”.",
+      "keywords": [
+        "Experience",
+        "Foreword",
+        "Living",
+        "Through",
+        "Touch"
+      ]
+    },
+    {
+      "title": "ORGANISATION ET CONDUITE DE SYSTEMES DISCRETS (OCSD)",
+      "keywords": [
+        "Conduite",
+        "Discrets",
+        "Ocsd",
+        "Organisation",
+        "Systemes"
+      ]
+    },
+    {
+      "title": "Supporting biomedical ontology evolution by identifying outdated concepts and the required type of change",
+      "keywords": [
+        "Ontology",
+        "Biomedical",
+        "Change",
+        "Concepts",
+        "Evolution",
+        "Identifying",
+        "Outdated",
+        "Required",
+        "Supporting",
+        "Type"
+      ]
+    },
+    {
+      "title": "Evolving semantic annotations through multiple versions of controlled medical terminologies",
+      "keywords": [
+        "Annotations",
+        "Controlled",
+        "Medical",
+        "Multiple",
+        "Semantic",
+        "Terminologies",
+        "Through",
+        "Versions"
+      ]
+    },
+    {
+      "title": "Combining semantic and lexical measures to evaluate medical terms similarity",
+      "keywords": [
+        "Evaluate",
+        "Lexical",
+        "Measures",
+        "Medical",
+        "Semantic",
+        "Similarity",
+        "Terms"
+      ]
+    },
+    {
+      "title": "A learning-based approach to combine medical annotation results",
+      "keywords": [
+        "Annotation",
+        "Combine",
+        "Learning-based",
+        "Medical",
+        "Results"
+      ]
+    },
+    {
+      "title": "Method for efficient mapping updates between dynamic knowledge organization systems",
+      "keywords": [
+        "Mapping",
+        "Efficient",
+        "Knowledge",
+        "Organization",
+        "Systems",
+        "Updates"
+      ]
+    },
+    {
+      "title": "WETICE 2019",
+      "keywords": [
+        "Wetice"
+      ]
+    },
+    {
+      "title": "WETICE 2019",
+      "keywords": [
+        "Wetice"
+      ]
+    },
+    {
+      "title": "A SURVEY OF INTEROPERABILITY IN E-HEALTH SYSTEMS",
+      "keywords": [
+        "eHealth",
+        "Interoperability",
+        "Survey",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Construction and exploitation of an historical knowledge graph to deal with the evolution of ontologies",
+      "keywords": [
+        "Knowledge Graphs",
+        "Ontology",
+        "Deal",
+        "Evolution",
+        "Historical"
+      ]
+    },
+    {
+      "title": "Un graphe de connaissance {\\'e",
+      "keywords": [
+        "Connaissance",
+        "Graphe"
+      ]
+    },
+    {
+      "title": "Evaluating Cross-lingual Semantic Annotation for Medical Forms.",
+      "keywords": [
+        "Annotation",
+        "Cross-lingual",
+        "Evaluating",
+        "Forms",
+        "Medical",
+        "Semantic"
+      ]
+    },
+    {
+      "title": "Complaint Ontology Pattern",
+      "keywords": [
+        "Ontology",
+        "Complaint",
+        "Pattern"
+      ]
+    },
+    {
+      "title": "Ontology-Based Management of Cranial Computed Tomography Reports",
+      "keywords": [
+        "Ontology",
+        "Computed",
+        "Cranial",
+        "Management",
+        "Reports",
+        "Tomography"
+      ]
+    },
+    {
+      "title": "Dyn-Diff: an efficient approach for the comparison of large versions of ontologies",
+      "keywords": [
+        "Ontology",
+        "Comparison",
+        "Dyn-diff",
+        "Efficient",
+        "Large",
+        "Versions"
+      ]
+    },
+    {
+      "title": "WETICE 2021 Program Committee",
+      "keywords": [
+        "Committee",
+        "Program",
+        "Wetice"
+      ]
+    },
+    {
+      "title": "DynDiff: A Tool for Comparing Versions of Large Ontologies.",
+      "keywords": [
+        "Ontology",
+        "Comparing",
+        "Dyndiff",
+        "Large",
+        "Tool",
+        "Versions"
+      ]
+    },
+    {
+      "title": "Method for consolidating dynamic knowledge organization systems",
+      "keywords": [
+        "Consolidating",
+        "Knowledge",
+        "Organization",
+        "Systems"
+      ]
+    },
+    {
+      "title": "Persistent Identifiers and Their Limitations in a Dynamic Web",
+      "keywords": [
+        "Identifiers",
+        "Limitations",
+        "Persistent"
+      ]
+    },
+    {
+      "title": "Data Integration in the Life Sciences: 12th International Conference, DILS 2017, Luxembourg, Luxembourg, November 14-15, 2017, Proceedings",
+      "keywords": [
+        "Conference",
+        "Data",
+        "Dils",
+        "Integration",
+        "International",
+        "Life",
+        "Luxembourg",
+        "November",
+        "Proceedings",
+        "Sciences"
+      ]
+    },
+    {
+      "title": "Une plateforme de management des connaissances pour le domaine des ressources spatiales.",
+      "keywords": [
+        "Connaissances",
+        "Domaine",
+        "Management",
+        "Plateforme",
+        "Pour",
+        "Ressources",
+        "Spatiales"
+      ]
+    },
+    {
+      "title": "Analysis and implementation of the DynDiff tool when comparing versions of ontology",
+      "keywords": [
+        "Ontology",
+        "Comparing",
+        "Dyndiff",
+        "Implementation",
+        "Tool",
+        "Versions",
+        "When"
+      ]
+    },
+    {
+      "title": "Survey in Characterization of Semantic Change",
+      "keywords": [
+        "Semantic Change",
+        "Characterization",
+        "Survey"
+      ]
+    },
+    {
+      "title": "A knowledge-sharing platform for space resources",
+      "keywords": [
+        "Knowledge-sharing",
+        "Resources",
+        "Space"
+      ]
+    },
+    {
+      "title": "Inferring Recommendation Interactions in Clinical Guidelines: Case-studies on Multimorbidity",
+      "keywords": [
+        "Clinical Guidelines",
+        "Clinical Guidelines",
+        "Recommendation",
+        "Case-studies",
+        "Inferring",
+        "Interactions",
+        "Multimorbidity"
+      ]
+    },
+    {
+      "title": "Socio-cultural adapted chatbots: Harnessing Knowledge Graphs and Large Language Models for enhanced context awarenes",
+      "keywords": [
+        "Knowledge Graphs",
+        "Knowledge Graphs",
+        "Adapted",
+        "Awarenes",
+        "Chatbots",
+        "Context",
+        "Enhanced",
+        "Harnessing",
+        "Language",
+        "Large",
+        "Socio-cultural"
+      ]
+    },
+    {
+      "title": "FAIR evaluation of ten widely used chemical datasets: lessons learned and recommendations",
+      "keywords": [
+        "Recommendation",
+        "Recommendation",
+        "Chemical",
+        "Datasets",
+        "Fair",
+        "Learned",
+        "Lessons",
+        "Used",
+        "Widely"
+      ]
+    },
+    {
+      "title": "Semantic Change Characterization with LLMs using Rhetorics",
+      "keywords": [
+        "Semantic Change",
+        "Characterization",
+        "Llms",
+        "Rhetorics"
+      ]
+    },
+    {
+      "title": "Unlocking the potential of data harmonization and FAIRness in chemical risk assessment: lessons from practice and insights for policy development",
+      "keywords": [
+        "Assessment",
+        "Chemical",
+        "Data",
+        "Development",
+        "Fairness",
+        "Harmonization",
+        "Insights",
+        "Lessons",
+        "Policy",
+        "Potential",
+        "Practice",
+        "Risk",
+        "Unlocking"
+      ]
+    },
+    {
+      "title": "Combining knowledge graphs and LLMs for hazardous chemical information management and reuse",
+      "keywords": [
+        "Knowledge Graphs",
+        "Knowledge Graphs",
+        "Chemical",
+        "Hazardous",
+        "Information",
+        "Llms",
+        "Management",
+        "Reuse"
+      ]
+    },
+    {
+      "title": "Advanced Methodologies and Technologies for Innovative Information Systems",
+      "keywords": [
+        "Advanced",
+        "Information",
+        "Innovative",
+        "Methodologies",
+        "Systems",
+        "Technologies"
+      ]
+    },
+    {
+      "title": "Enhancing ESCO with Generative AI: A Dynamic Approach to Supporting 21 st Century Education",
+      "keywords": [
+        "Century",
+        "Education",
+        "Enhancing",
+        "Esco",
+        "Generative",
+        "Supporting"
+      ]
+    },
+    {
+      "title": "Semantic Similarity Analysis of Scientific Papers in Scholarly Knowledge Graphs",
+      "keywords": [
+        "Knowledge Graphs",
+        "Knowledge Graphs",
+        "Papers",
+        "Scholarly",
+        "Scientific",
+        "Semantic",
+        "Similarity"
+      ]
+    },
+    {
+      "title": "Une plateforme de management des connaissances pour le",
+      "keywords": [
+        "Connaissances",
+        "Management",
+        "Plateforme",
+        "Pour"
+      ]
+    },
+    {
+      "title": "Bridging Skill Gaps: Combining Generative and Symbolic AI for Personalized Lifelong Learning Pathways",
+      "keywords": [
+        "Bridging",
+        "Gaps",
+        "Generative",
+        "Learning",
+        "Lifelong",
+        "Pathways",
+        "Personalized",
+        "Skill",
+        "Symbolic"
+      ]
+    }
+  ],
+  "generatedFrom": "data/Marcos.bib",
+  "totalPublications": 107
+}

@@ -26,53 +26,32 @@
         <!-- Custom styles for this template -->
         <link href="css/agency.min.css" rel="stylesheet">
     	  <link href="css/agency_custom.css" rel="stylesheet">
-        <style>
-          body{
-            background-color: black;
-          }
-          t1 {
-            color: #cccc99;
-          }
-          t2 {
-            color: white;
-          }
-
-</style>
   </head>
 
 
   <body id="page-top">
 
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top animated-nav" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Marcos Da Silveira</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          Menu
-          <i class="fas fa-bars"></i>
+        <a class="navbar-brand" href="index.html">Marcos Da Silveira</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav text-uppercase ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="publications.html">Publications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="projects.html">Projects</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html#aob">Activities</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="about.html#bio">CV</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="index.html#contact">Contatct</a>
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="publications.html">Publications</a></li>
+            <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html#aob">Activities</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html#bio">CV</a></li>
+            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            <li class="nav-item d-flex align-items-center ml-lg-2">
+              <button id="themeToggle" class="btn btn-sm btn-outline-light" type="button" aria-label="Toggle dark mode">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+              </button>
             </li>
           </ul>
         </div>
@@ -96,11 +75,11 @@
         <div class="row">
           <div class="col-lg-12 text-left">
 
-            <t1><p>
+            <p>
 		    Marcos Da Silveira is a Leader Researcher at the Luxembourg Institute of Science and Technology (LIST), HUMOD group. Dr. Da Silveira’s research interests focus on making knowledge-based systems more collaborative and understandable. He's an expert in developing hybrid AI approaches that bring together traditional reasoning with modern statistical methods, helping the development of intelligent software agents and decision support systems. 
 Dr. Da Silveira’s work, rooted in Semantic Web Technologies, Machine Learning, Generative AI, and Formal Reasoning, has been instrumental in projects that ensure extracting of key information from multimodal sources, keeping the semantics of knowledge graphs accurate and up-to-date over time, transform complex guidelines into clear and formal representations, and finally bridge the gap between personal competences, industry needs, and existing trainings. His work was key to promote secure ways to share medical data in Luxembourg – notably as a designer of the architecture of Luxembourgish eHealth Platform, implemented by the eSanté Agency. Perhaps one of his most significant contributions is being a lead designer and developer of Dynaccurate, an innovative technology that led to the creation of a successful Luxembourgish spinoff company! 
 With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003) and postdoctoral research at LAAS - CNRS, Dr. Da Silveira brings a wealth of experience from his academic roles in Brazil (Pontifical Catholic University of Parana) and Luxembourg (University of Luxembourg) to his research work at LIST.
-	    </p></t1>
+	    </p>
 
           </div>
         </div>
@@ -112,7 +91,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <t2><h2 class="section-heading text-uppercase">Interests</h2></t2>
+            <h2 class="section-heading text-uppercase">Interests</h2>
 
           </div>
         </div>
@@ -122,7 +101,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-cogs fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>Ontologies</strong></p></t1>
+            <p class="service-heading"><strong>Ontologies</strong></p>
 
           </div>
           <div class="col-md-4">
@@ -130,14 +109,14 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-lightbulb fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>Knowledge Graphs</strong></p></t1>
+            <p class="service-heading"><strong>Knowledge Graphs</strong></p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-2x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-share-alt fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>Semantic technologies</strong></p></t1>
+            <p class="service-heading"><strong>Semantic technologies</strong></p>
           </div>
         </div>
         <div class="row text-center">
@@ -146,7 +125,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
               <i class="fas fa-circle fa-stack-2x text-success"></i>
               <i class="fas fa-file-medical-alt fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>e-Health</strong></p></t1>
+            <p class="service-heading"><strong>e-Health</strong></p>
 
           </div>
           <div class="col-md-4">
@@ -154,14 +133,14 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
               <i class="fas fa-circle fa-stack-2x text-success"></i>
               <i class="fas fa-city fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>AI 4 Education</strong></p></t1>
+            <p class="service-heading"><strong>AI 4 Education</strong></p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-2x">
               <i class="fas fa-circle fa-stack-2x text-success"></i>
               <i class="fas fa-balance-scale fa-stack-1x fa-inverse"></i>
             </span>
-            <t1><p class="service-heading"><strong>LLM</strong></p></t1>
+            <p class="service-heading"><strong>LLM</strong></p>
           </div>
         </div>
 
@@ -176,7 +155,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
               <div class="col-lg-12 text-center">
                 <h2 class="section-heading text-uppercase">Get in touch</h2>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/team/mdasilveira2.jpg" alt="Photo Marcos" style="width: 30%" >
+                  <picture>
+                    <source srcset="img/team/mdasilveira2.webp" type="image/webp" />
+                    <source srcset="img/team/mdasilveira2.jpg" type="image/jpeg" />
+                    <img class="rounded-circle img-fluid" src="img/team/mdasilveira2.jpg" alt="Photo Marcos" style="width: 30%" width="400" height="400" loading="lazy" decoding="async" />
+                  </picture>
                 </div>
     			         <h4 class="section-heading text-secondary"><em>marcos dot dasilveira at list dot lu</em></h4>
     			            <br/>
@@ -248,7 +231,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
 	<div class="row">
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="">
-              <img class="img-fluid" src="img/logo/moka.jpeg" alt="moka">
+              <picture>
+                <source srcset="img/logo/moka.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/moka.jpeg" alt="moka" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>Evolution of Semantic Annotation</h5>
@@ -260,7 +246,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
         <div class="row">
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="https://www.d4h.uni.lu/">
-              <img class="img-fluid" src="img/logo/d4h.png" alt="d4h">
+              <picture>
+                <source srcset="img/logo/d4h.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/d4h.png" alt="d4h" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>Evolution of Semantic Annotation</h5>
@@ -272,7 +261,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
         <div class="row">
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="https://www.list.lu/en/research/scientific-publication/a-knowledge-sharing-platform-for-space-resources/?tx_listpublication_pi1%5Baction%5D=show&tx_listpublication_pi1%5Bcontroller%5D=Publication&cHash=3dd3e3c9072dccb908342ae24fca34fc">
-              <img class="img-fluid" src="img/logo/space.jpeg" alt="space">
+              <picture>
+                <source srcset="img/logo/space.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/space.jpeg" alt="space" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>Evolution of Semantic Annotation</h5>
@@ -284,7 +276,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
         <div class="row">
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="https://www.elisa-project.lu/">
-              <img class="img-fluid" src="img/logo/Elisalogo.png" alt="ELISA">
+              <picture>
+                <source srcset="img/logo/Elisalogo.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/Elisalogo.png" alt="ELISA" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>Evolution of Semantic Annotation</h5>
@@ -295,7 +290,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
 
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="https://www.list.lu/en/research/project/dynamo/">
-              <img class="img-fluid" src="img/logo/Dynamo-logo.jpg" alt="Dynamo">
+              <picture>
+                <source srcset="img/logo/Dynamo-logo.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/Dynamo-logo.jpg" alt="Dynamo" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>Reconciliation of Dynamic Medical Knowledge Organizing Systems</h5>
@@ -306,7 +304,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
 
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="">
-              <img class="img-fluid" src="img/logo/Metis.jpg" alt="METIS">
+              <picture>
+                <source srcset="img/logo/Metis.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/Metis.jpg" alt="METIS" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>METIS</h5>
@@ -317,7 +318,10 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
 
           <div class="col-md-3 col-sm-6 portfolio-item">
             <a class="portfolio-link" href="https://www.fnr.lu/projects/self-adaptation-and-self-configuration-of-collaborative-medical-systems/">
-              <img class="img-fluid" src="img/logo/Saccom.png" alt="SACCOM">
+              <picture>
+                <source srcset="img/logo/Saccom.webp" type="image/webp" />
+                <img class="img-fluid" src="img/logo/Saccom.png" alt="SACCOM" loading="lazy" decoding="async">
+              </picture>
             </a>
             <div class="portfolio-caption">
               <h5>SACCOM</h5>
@@ -459,7 +463,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <t2><h2 class="section-heading text-uppercase">CV</h2></t2>
+            <h2 class="section-heading text-uppercase">CV</h2>
           </div>
         </div>
         <div class="row">
@@ -471,11 +475,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <t1><small>2008-ongoing</small></t1>
-                    <t1><p class="subheading"><strong>LIST, LU</strong></p></t1>
+                    <small>2008-ongoing</small>
+                    <p class="subheading"><strong>LIST, LU</strong></p>
                   </div>
                   <div class="timeline-body">
-                    <t1><small>I am working as Researcher in the Data Analytics Team.</small></t1>
+                    <small>I am working as Researcher in the Data Analytics Team.</small>
                   </div>
                 </div>
               </li>
@@ -485,11 +489,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <t1><small>2006-2008</small></t1>
-                    <t1><p class="subheading"><strong>University of Luxembourg, LU</strong></p></t1>
+                    <small>2006-2008</small>
+                    <p class="subheading"><strong>University of Luxembourg, LU</strong></p>
                   </div>
                   <div class="timeline-body">
-                    <t1><small>I worked as Scientific Collaborator on RESIST project, developing "software architectures for eHealth", with Prof. Nicolas Guelfi.</small></t1>
+                    <small>I worked as Scientific Collaborator on RESIST project, developing "software architectures for eHealth", with Prof. Nicolas Guelfi.</small>
                   </div>
                 </div>
               </li>
@@ -500,11 +504,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <t1><small>2004-2005</small></t1>
-                    <t1><p class="subheading"><strong>Laboratory for Analysis and Architecture of Systems, FR</strong></p></t1>
+                    <small>2004-2005</small>
+                    <p class="subheading"><strong>Laboratory for Analysis and Architecture of Systems, FR</strong></p>
                   </div>
                   <div class="timeline-body">
-                    <t1><small>I work as researcher on the topic fault detection for embedded aircrafts system, leaded by Prof. Michel Combacau and Dr. Louise Trave-Massuyes.</small></t1>
+                    <small>I work as researcher on the topic fault detection for embedded aircrafts system, leaded by Prof. Michel Combacau and Dr. Louise Trave-Massuyes.</small>
                   </div>
                 </div>
               </li>
@@ -515,11 +519,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <t1><small>2000-2003</small></t1>
-                    <t1><p class="subheading"><strong>University Toulouse III, FR</strong></p></t1>
+                    <small>2000-2003</small>
+                    <p class="subheading"><strong>University Toulouse III, FR</strong></p>
                   </div>
                   <div class="timeline-body">
-                    <t1><small>I did my PhD on Industrial Informatics, where I worked on the problem of faut recovering for discrete control systems, using Petri Nets.</small></t1>
+                    <small>I did my PhD on Industrial Informatics, where I worked on the problem of faut recovering for discrete control systems, using Petri Nets.</small>
                   </div>
                 </div>
               </li>
@@ -530,11 +534,11 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <t1><small>1998-2004</small></t1>
-                    <t1><p class="subheading"><strong>Pontifical Catholic University of Parana, BR</strong></p></t1>
+                    <small>1998-2004</small>
+                    <p class="subheading"><strong>Pontifical Catholic University of Parana, BR</strong></p>
                   </div>
                   <div class="timeline-body">
-                    <t1><small>I worked as Associated and, later, as Full Professor.</small></t1>
+                    <small>I worked as Associated and, later, as Full Professor.</small>
                   </div>
                 </div>
               </li>
@@ -558,7 +562,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
         </div>
 		    <br/><br/>
 		    <p><span class="fa-stack">
-          <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Marcao02/Marcao02.github.io/master/Marcos.bib&jsonp=1"></script>
+          <!-- Removed external BibBase absolute URL to enforce local relative usage of Marcos.bib -->
       </div>
     </section>
 
@@ -569,7 +573,7 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <t2><span class="copyright">Copyright &copy; MDS@2018</span></t2>
+            <span class="copyright">Copyright &copy; MDS@2018</span>
           </div>
           <div class="col-md-4">
 
@@ -608,3 +612,18 @@ With a Ph.D. in Industrial Informatics from University of Toulouse (France, 2003
   </body>
 
 </html>
+<script>
+  (function(){
+    const root = document.documentElement;
+    const saved = localStorage.getItem('theme');
+    if(saved==='dark') root.setAttribute('data-theme','dark');
+    const toggle = document.getElementById('themeToggle');
+    if(toggle){
+      toggle.addEventListener('click',()=>{
+        const isDark = root.getAttribute('data-theme')==='dark';
+        if(isDark){ root.removeAttribute('data-theme'); localStorage.setItem('theme',''); }
+        else { root.setAttribute('data-theme','dark'); localStorage.setItem('theme','dark'); }
+      });
+    }
+  })();
+</script>

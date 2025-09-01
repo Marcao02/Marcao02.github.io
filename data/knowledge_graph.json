@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    { "id": "Ontology", "group": "KR", "size": 18 },
+    { "id": "Semantic Web", "group": "KR", "size": 14 },
+    { "id": "Knowledge Graphs", "group": "KR", "size": 16 },
+    { "id": "Skills", "group": "KR", "size": 16 },
+    { "id": "Explainable AI", "group": "AI", "size": 12 },
+    { "id": "Hybrid AI", "group": "AI", "size": 13 },
+    { "id": "Machine Learning", "group": "AI", "size": 15 },
+    { "id": "Clinical Guidelines", "group": "eHealth", "size": 11 },
+    { "id": "eHealth", "group": "eHealth", "size": 14 },
+    { "id": "Data Sharing", "group": "eHealth", "size": 10 }
+  ],
+  "links": [
+    { "source": "Ontology", "target": "Semantic Web", "weight": 2 },
+    { "source": "Ontology", "target": "Knowledge Graphs", "weight": 3 },
+    { "source": "Knowledge Graphs", "target": "Hybrid AI", "weight": 2 },
+    { "source": "Knowledge Graphs", "target": "Skills", "weight": 3 },
+    { "source": "Hybrid AI", "target": "Explainable AI", "weight": 1 },
+    { "source": "Machine Learning", "target": "Hybrid AI", "weight": 2 },
+    { "source": "eHealth", "target": "Clinical Guidelines", "weight": 2 },
+    { "source": "eHealth", "target": "Data Sharing", "weight": 1 },
+    { "source": "Ontology", "target": "eHealth", "weight": 1 }
+  ]
+}
