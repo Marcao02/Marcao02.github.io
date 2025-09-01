@@ -10,21 +10,175 @@
      <meta name="author" content="Marcos Da Silveira" />
 
     <title>Marcos Da Silveira - Website</title>
-    <!-- Structured Data -->
-    <script type="application/ld+json">{
+    <!-- Structured Data: Person + Organization (JSON-LD) -->
+    <script type="application/ld+json">
+    {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Marcos Da Silveira",
-      "jobTitle": "Leader Researcher in Data Science & AI",
-      "affiliation": {"@type": "Organization", "name": "Luxembourg Institute of Science and Technology"},
-      "url": "https://example.com/",
-      "sameAs": [
-        "https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ",
-        "https://www.researchgate.net/profile/Marcos_Silveira",
-        "https://orcid.org/0000-0002-2604-3645"
-      ],
-      "knowsAbout": ["Ontology","Knowledge Graphs","Semantic Web","Explainable AI","Hybrid AI","eHealth"]
-    }</script>
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://marcao02.github.io/#person",
+          "name": "Dr. Marcos Da Silveira",
+          "givenName": "Marcos",
+          "familyName": "Da Silveira",
+          "honorificPrefix": "Dr.",
+          "url": "https://marcao02.github.io/",
+          "image": "https://marcao02.github.io/img/team/mdasilveira2.jpg",
+          "jobTitle": "Leader Researcher in Data Science & AI",
+          "worksFor": { "@id": "https://www.list.lu/#organization" },
+          "sameAs": [
+            "https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ",
+            "https://www.researchgate.net/profile/Marcos_Silveira",
+            "https://orcid.org/0000-0002-2604-3645"
+          ],
+          "knowsAbout": ["Ontology","Knowledge Graphs","Semantic Web","Explainable AI","Hybrid AI","eHealth"],
+          "description": "Leader Researcher at LIST focusing on knowledge graphs, hybrid and explainable AI, Semantic Web technologies, and Digital Skills solutions."
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://www.list.lu/#organization",
+          "name": "Luxembourg Institute of Science and Technology",
+          "url": "https://www.list.lu",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "work",
+            "telephone": "+352 275 888 2371"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, Av. des Hauts-Fourneaux",
+            "addressLocality": "Esch-sur-Alzette",
+            "postalCode": "L-4362",
+            "addressCountry": "LU"
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- Publications structured data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#da2024knowledge",
+          "headline": "A knowledge-sharing platform for space resources",
+          "author": [
+            { "@type": "Person", "name": "Marcos Da Silveira" },
+            { "@type": "Person", "name": "Louis Deladiennee" },
+            { "@type": "Person", "name": "Emmanuel Scolan" },
+            { "@type": "Person", "name": "Cedric Pruski" }
+          ],
+          "datePublished": "2024",
+          "isPartOf": { "@type": "Periodical", "name": "Data & Knowledge Engineering" },
+          "url": "https://marcao02.github.io/publications.html#da2024knowledge",
+          "identifier": "da2024knowledge"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#freudenthal2024unlocking",
+          "headline": "Unlocking the potential of data harmonization and FAIRness in chemical risk assessment: lessons from practice and insights for policy development",
+          "author": [
+            { "@type": "Person", "name": "Oona Freudenthal" },
+            { "@type": "Person", "name": "Marcos Da Silveira" },
+            { "@type": "Person", "name": "Louis Deladiennee" }
+          ],
+          "datePublished": "2024",
+          "isPartOf": { "@type": "Periodical", "name": "Environmental Sciences Europe" },
+          "url": "https://marcao02.github.io/publications.html#freudenthal2024unlocking",
+          "identifier": "freudenthal2024unlocking"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#diaz2023analysis",
+          "headline": "Analysis and implementation of the DynDiff tool when comparing versions of ontology",
+          "author": [
+            { "@type": "Person", "name": "Sara Diaz Benavides" },
+            { "@type": "Person", "name": "Silvio D. Cardoso" },
+            { "@type": "Person", "name": "Marcos Da Silveira" },
+            { "@type": "Person", "name": "Cedric Pruski" }
+          ],
+          "datePublished": "2023",
+          "isPartOf": { "@type": "Periodical", "name": "Journal of Biomedical Semantics" },
+          "url": "https://marcao02.github.io/publications.html#diaz2023analysis",
+          "identifier": "diaz2023analysis"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#benavides2022dyndiff",
+          "headline": "DynDiff: A Tool for Comparing Versions of Large Ontologies",
+          "author": [
+            { "@type": "Person", "name": "Sara Diaz Benavides" },
+            { "@type": "Person", "name": "Silvio D. Cardoso" },
+            { "@type": "Person", "name": "Marcos Da Silveira" },
+            { "@type": "Person", "name": "Cedric Pruski" }
+          ],
+          "datePublished": "2022",
+          "isPartOf": { "@type": "Collection", "name": "SeWeBMeDA@ ESWC (Workshop proceedings)" },
+          "url": "https://marcao02.github.io/publications.html#benavides2022dyndiff",
+          "identifier": "benavides2022dyndiff"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#cardoso2020construction",
+          "headline": "Construction and exploitation of an historical knowledge graph to deal with the evolution of ontologies",
+          "author": [
+            { "@type": "Person", "name": "Silvio Domingos Cardoso" },
+            { "@type": "Person", "name": "Marcos Da Silveira" },
+            { "@type": "Person", "name": "Cedric Pruski" }
+          ],
+          "datePublished": "2020",
+          "isPartOf": { "@type": "Periodical", "name": "Knowledge-Based Systems" },
+          "url": "https://marcao02.github.io/publications.html#cardoso2020construction",
+          "identifier": "cardoso2020construction"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#cardoso2018supporting",
+          "headline": "Supporting biomedical ontology evolution by identifying outdated concepts and the required type of change",
+          "author": [
+            { "@type": "Person", "name": "Silvio Domingos Cardoso" },
+            { "@type": "Person", "name": "Cedric Pruski" },
+            { "@type": "Person", "name": "Marcos Da Silveira" }
+          ],
+          "datePublished": "2018",
+          "isPartOf": { "@type": "Periodical", "name": "Journal of Biomedical Informatics" },
+          "url": "https://marcao02.github.io/publications.html#cardoso2018supporting",
+          "identifier": "cardoso2018supporting"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#dos2015recognizing",
+          "headline": "Recognizing lexical and semantic change patterns in evolving life science ontologies to inform mapping adaptation",
+          "author": [
+            { "@type": "Person", "name": "Julio Cesar Dos Reis" },
+            { "@type": "Person", "name": "Duy Dinh" },
+            { "@type": "Person", "name": "Marcos Da Silveira" }
+          ],
+          "datePublished": "2015",
+          "isPartOf": { "@type": "Periodical", "name": "Artificial Intelligence in Medicine" },
+          "url": "https://marcao02.github.io/publications.html#dos2015recognizing",
+          "identifier": "dos2015recognizing"
+        },
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://marcao02.github.io/publications.html#zamborlini2016inferring",
+          "headline": "Inferring Recommendation Interactions in Clinical Guidelines: Case-studies on Multimorbidity",
+          "author": [
+            { "@type": "Person", "name": "Veruska Zamborlini" },
+            { "@type": "Person", "name": "Rinke Hoekstra" },
+            { "@type": "Person", "name": "Marcos Da Silveira" }
+          ],
+          "datePublished": "2016",
+          "isPartOf": { "@type": "Periodical", "name": "Semantic Web Journal" },
+          "url": "https://marcao02.github.io/publications.html#zamborlini2016inferring",
+          "identifier": "zamborlini2016inferring"
+        }
+      ]
+    }
+    </script>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
