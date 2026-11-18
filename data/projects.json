@@ -134,7 +134,7 @@
       "health"
     ],
     "logo": "img/logo/Saccom.png",
-    "url": "https://web.archive.org/web/20160912012242/http://fnr.lu/projects/self-adaptation-and-self-configuration-of-collaborative-medical-systems/",
+    "url": "",
     "summary": "Ontologies, big data and IoT for diabetes care: treatment plans that adapt as the patient's state and environment change.",
     "details": "Treatment plans and their goals were described with standard terminologies such as SNOMED CT and ICD, and autonomic-computing algorithms reconfigured medical services to personalise care."
   },
