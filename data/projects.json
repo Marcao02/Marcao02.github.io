@@ -104,7 +104,7 @@
       "health"
     ],
     "logo": "img/logo/Elisalogo.png",
-    "url": "https://www.elisa-project.lu/",
+    "url": "https://researchportal.list.lu/projects/detail/elisa/",
     "summary": "Tools that understand how ontologies evolve and repair the semantic annotations that depend on them.",
     "details": "Annotations are updated directly when they can be modified; otherwise a query-enrichment mechanism reflects the ontology's evolution so annotated data remains searchable. Two life-science cases served as testbeds."
   },
@@ -134,7 +134,7 @@
       "health"
     ],
     "logo": "img/logo/Saccom.png",
-    "url": "https://www.fnr.lu/projects/self-adaptation-and-self-configuration-of-collaborative-medical-systems/",
+    "url": "https://web.archive.org/web/20160912012242/http://fnr.lu/projects/self-adaptation-and-self-configuration-of-collaborative-medical-systems/",
     "summary": "Ontologies, big data and IoT for diabetes care: treatment plans that adapt as the patient's state and environment change.",
     "details": "Treatment plans and their goals were described with standard terminologies such as SNOMED CT and ICD, and autonomic-computing algorithms reconfigured medical services to personalise care."
   },

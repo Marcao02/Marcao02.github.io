@@ -13,7 +13,7 @@ ROLE = "Lead Researcher in knowledge graphs and hybrid AI"
 PROFILES = [
     ("Google Scholar", "https://scholar.google.lu/citations?hl=en&user=tS76PyMAAAAJ"),
     ("ORCID", "https://orcid.org/0000-0002-2604-3645"),
-    ("DBLP", "https://dblp.org/pid/s/Silveira:Marcos_Da"),
+    ("DBLP", "https://dblp.org/pid/64/2164"),
     ("ResearchGate", "https://www.researchgate.net/profile/Marcos_Silveira"),
 ]
 CUR = ' aria-current="page"'
