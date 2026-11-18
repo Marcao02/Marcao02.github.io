@@ -1,0 +1,39 @@
+{
+  "_note": "Manual corrections applied after the automatic matching. null removes a field.",
+  "veruska2015analyzing": {
+    "doi": null,
+    "pdf": null,
+    "openalex": null
+  },
+  "zamborlini2015analyzing": {
+    "doi": "10.1007/978-3-319-19551-3_40",
+    "source": "manual"
+  },
+  "santos2016complaint": {
+    "doi": null
+  },
+  "nabuco2011choices": {
+    "doi": null
+  },
+  "_why": {
+    "veruska2015analyzing / zamborlini2015analyzing": "OpenAlex has one record (AIME 2015, LNCS) under the long title of the BNAIC entry",
+    "santos2016complaint": "Semantic Scholar gave the DOI of the 2017 chapter",
+    "nabuco2011choices": "10.4018/IJWP is the journal's DOI, not the article's",
+    "martins2024survey": "the .bib has a truncated arXiv number; Scholar lists arXiv:2402.19088",
+    "lin2020evaluating": "DOI from the 2020 .bib; Crossref confirms it, the OpenAlex DOI only redirects to it",
+    "cardoso2020graphe": "HAL page from the 2020 .bib"
+  },
+  "martins2024survey": {
+    "doi": "10.48550/arXiv.2402.19088",
+    "url": "https://arxiv.org/abs/2402.19088",
+    "source": "manual"
+  },
+  "lin2020evaluating": {
+    "doi": "10.5220/0008979901450155",
+    "source": "bib-history"
+  },
+  "cardoso2020graphe": {
+    "url": "https://hal.science/hal-02470156",
+    "source": "bib-history"
+  }
+}

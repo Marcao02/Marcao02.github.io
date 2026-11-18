@@ -1,118 +1,50 @@
-# Academic Website
+# marcao02.github.io
 
-Modernized personal academic website with:
+Personal research website of Marcos Da Silveira (LIST, Luxembourg), served by GitHub Pages from `master`.
 
-- Responsive design & dark mode toggle
-- Animated sections and interactive infobox (hover reveal)
-- D3.js knowledge graph fed by JSON data
-- Automatic keyword frequency generation from BibTeX
-- Image lazy loading & performance tweaks
-- Basic SEO (sitemap.xml, robots.txt, JSON‑LD)
+## Pages
 
-## Structure (key folders)
+- `index.html`: introduction, a topic graph that grows year by year, research themes, latest papers, selected projects
+- `research.html`: the projects, filterable by theme (`projects.html` redirects here)
+- `publications.html`: all papers with search, filters, a topic map, citation counts, DOI and PDF links
+- `about.html`: biography, career timeline, supervision, service
 
-- `index.html`, `about.html`, `projects.html`, `publications.html` – main pages
-- `css/` – custom styles (`agency_custom.css`)
-- `js/knowledge_graph.js` – D3 knowledge graph loader / renderer
-- `data/knowledge_graph.json` – base graph (nodes + links)
-- `data/publications_keywords.json` – publication -> keywords data (auto-generated)
-- `scripts/extract_keywords.py` – helper script to regenerate keyword JSON from BibTeX
-- `Marcos.bib` – source BibTeX file of publications
+Plain HTML, CSS and JavaScript modules (`css/site.css`, `js/`): no framework, nothing to install.
+Light and dark themes follow the visitor's system setting; animations stop for visitors who ask for reduced motion.
 
-## Regenerating publication keywords
+## Data
 
-Whenever `Marcos.bib` changes, regenerate `data/publications_keywords.json` so the knowledge graph reflects new work.
+| File | What it is |
+|---|---|
+| `data/Marcos.bib` | the publication list (main source) |
+| `data/scholar.json` | the Google Scholar list: `[title, authors, venue, year, citations, id]` |
+| `data/enrichment-overrides.json` | manual corrections to automatic matches, each with its reason under `_why` |
+| `data/projects.json` | the projects shown on Home and Research |
+| `data/publications.json` | generated: what the Publications page reads |
 
-### 1. Requirements
+## Updating
 
-- Python 3.8+ (no external packages needed)
-
-### 2. Basic usage
+After editing `Marcos.bib` or `scholar.json`, from the repository root:
 
 ```bash
-python3 scripts/extract_keywords.py \
-  --bib Marcos.bib \
-  --out data/publications_keywords.json
+sh scripts/sh/update_publications.sh
 ```
 
-This produces a JSON with shape:
+It merges the BibTeX with Google Scholar, finds DOIs, open-access PDFs and full author names in
+OpenAlex and Semantic Scholar (answers cached in `data/cache/`, not committed), and regenerates
+`data/publications.json` and the pages. Add `--refresh` to download OpenAlex again.
 
-```json
-{
-  "publications": [
-    { "title": "...", "keywords": ["Knowledge Graphs", "Ontology", "..."] },
-    ...
-  ],
-  "generatedFrom": "Marcos.bib",
-  "totalPublications": 42
-}
-```
-
-Reload the site (or refresh the browser) and the graph will scale node sizes based on updated keyword frequencies.
-
-### 3. Filtering low-frequency noise
-
-Use `--min-freq` to drop keywords that appear rarely across all publications:
-
-```bash
-python3 scripts/extract_keywords.py --min-freq 2
-```
-
-Only keywords whose global frequency ≥ 2 remain in each publication's keyword list.
-
-### 4. Dry run to alternate file
-
-If you want to inspect before overwriting the production file:
-
-```bash
-python3 scripts/extract_keywords.py --out data/publications_keywords_preview.json
-```
-
-Compare, then replace:
-
-```bash
-mv data/publications_keywords_preview.json data/publications_keywords.json
-```
-
-### 5. Updating the knowledge graph
-
-`js/knowledge_graph.js` loads both `data/knowledge_graph.json` and `data/publications_keywords.json`. After regeneration:
-
-1. Ensure the output filename is exactly `data/publications_keywords.json` (unless you also change the loader code).
-2. Hard refresh the browser (Shift+Reload) to bypass cache.
-
-### 6. Extending keyword extraction
-
-Adjust heuristics in `scripts/extract_keywords.py`:
-- Add multi-word phrases: edit `PHRASES` list.
-- Normalize variants: edit `NORM` map.
-- Add/remove stopwords: edit `STOPWORDS` set.
-
-### 7. Automation (optional)
-
-Add a simple cron (macOS/Linux):
-
-```bash
-crontab -e
-# Weekly rebuild every Monday at 07:00
-0 7 * * 1 cd /path/to/site && python3 scripts/extract_keywords.py --bib Marcos.bib --out data/publications_keywords.json
-```
+Page text (biography, career, research themes) lives in `scripts/py/build_pages.py`; after changing it, run
+`python3 scripts/py/build_pages.py .`
 
 ## Local preview
 
-Use any static server (examples):
-
 ```bash
-# Python
 python3 -m http.server 8080
-# or Node (if installed)
-npx serve .
 ```
-Then visit: http://localhost:8080
+
+Then open http://localhost:8080 (the pages load their data with `fetch`, so opening the files directly does not work).
 
 ## License
 
 See `LICENSE`.
-
----
-Last updated: 2025-08-28

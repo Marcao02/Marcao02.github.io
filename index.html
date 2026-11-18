@@ -1,683 +1,129 @@
 <!DOCTYPE html>
 <html lang="en">
-
-  <head>
-
-    <meta charset="utf-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-     <meta name="description" content="Marcos Da Silveira Homepage" />
-     <meta name="keywords" content="Marcos Da Silveira, knowledge engineering, ontology, artificial intelligence, Semantic Web, LOD, eHealth, mappings, clinical guidelines, LIST" />
-     <meta name="author" content="Marcos Da Silveira" />
-
-    <title>Marcos Da Silveira - Website</title>
-    <!-- Structured Data: Person + Organization (JSON-LD) -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Person",
-          "@id": "https://marcao02.github.io/#person",
-          "name": "Dr. Marcos Da Silveira",
-          "givenName": "Marcos",
-          "familyName": "Da Silveira",
-          "honorificPrefix": "Dr.",
-          "url": "https://marcao02.github.io/",
-          "image": "https://marcao02.github.io/img/team/mdasilveira2.jpg",
-          "jobTitle": "Leader Researcher in Data Science & AI",
-          "worksFor": { "@id": "https://www.list.lu/#organization" },
-          "sameAs": [
-            "https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ",
-            "https://www.researchgate.net/profile/Marcos_Silveira",
-            "https://orcid.org/0000-0002-2604-3645"
-          ],
-          "knowsAbout": ["Ontology","Knowledge Graphs","Semantic Web","Explainable AI","Hybrid AI","eHealth"],
-          "description": "Leader Researcher at LIST focusing on knowledge graphs, hybrid and explainable AI, Semantic Web technologies, and Digital Skills solutions."
-        },
-        {
-          "@type": "Organization",
-          "@id": "https://www.list.lu/#organization",
-          "name": "Luxembourg Institute of Science and Technology",
-          "url": "https://www.list.lu",
-          "contactPoint": {
-            "@type": "ContactPoint",
-            "contactType": "work",
-            "telephone": "+352 275 888 2371"
-          },
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "5, Av. des Hauts-Fourneaux",
-            "addressLocality": "Esch-sur-Alzette",
-            "postalCode": "L-4362",
-            "addressCountry": "LU"
-          }
-        }
-      ]
-    }
-    </script>
-
-    <!-- Publications structured data (JSON-LD) -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#da2024knowledge",
-          "headline": "A knowledge-sharing platform for space resources",
-          "author": [
-            { "@type": "Person", "name": "Marcos Da Silveira" },
-            { "@type": "Person", "name": "Louis Deladiennee" },
-            { "@type": "Person", "name": "Emmanuel Scolan" },
-            { "@type": "Person", "name": "Cedric Pruski" }
-          ],
-          "datePublished": "2024",
-          "isPartOf": { "@type": "Periodical", "name": "Data & Knowledge Engineering" },
-          "url": "https://marcao02.github.io/publications.html#da2024knowledge",
-          "identifier": "da2024knowledge"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#freudenthal2024unlocking",
-          "headline": "Unlocking the potential of data harmonization and FAIRness in chemical risk assessment: lessons from practice and insights for policy development",
-          "author": [
-            { "@type": "Person", "name": "Oona Freudenthal" },
-            { "@type": "Person", "name": "Marcos Da Silveira" },
-            { "@type": "Person", "name": "Louis Deladiennee" }
-          ],
-          "datePublished": "2024",
-          "isPartOf": { "@type": "Periodical", "name": "Environmental Sciences Europe" },
-          "url": "https://marcao02.github.io/publications.html#freudenthal2024unlocking",
-          "identifier": "freudenthal2024unlocking"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#diaz2023analysis",
-          "headline": "Analysis and implementation of the DynDiff tool when comparing versions of ontology",
-          "author": [
-            { "@type": "Person", "name": "Sara Diaz Benavides" },
-            { "@type": "Person", "name": "Silvio D. Cardoso" },
-            { "@type": "Person", "name": "Marcos Da Silveira" },
-            { "@type": "Person", "name": "Cedric Pruski" }
-          ],
-          "datePublished": "2023",
-          "isPartOf": { "@type": "Periodical", "name": "Journal of Biomedical Semantics" },
-          "url": "https://marcao02.github.io/publications.html#diaz2023analysis",
-          "identifier": "diaz2023analysis"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#benavides2022dyndiff",
-          "headline": "DynDiff: A Tool for Comparing Versions of Large Ontologies",
-          "author": [
-            { "@type": "Person", "name": "Sara Diaz Benavides" },
-            { "@type": "Person", "name": "Silvio D. Cardoso" },
-            { "@type": "Person", "name": "Marcos Da Silveira" },
-            { "@type": "Person", "name": "Cedric Pruski" }
-          ],
-          "datePublished": "2022",
-          "isPartOf": { "@type": "Collection", "name": "SeWeBMeDA@ ESWC (Workshop proceedings)" },
-          "url": "https://marcao02.github.io/publications.html#benavides2022dyndiff",
-          "identifier": "benavides2022dyndiff"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#cardoso2020construction",
-          "headline": "Construction and exploitation of an historical knowledge graph to deal with the evolution of ontologies",
-          "author": [
-            { "@type": "Person", "name": "Silvio Domingos Cardoso" },
-            { "@type": "Person", "name": "Marcos Da Silveira" },
-            { "@type": "Person", "name": "Cedric Pruski" }
-          ],
-          "datePublished": "2020",
-          "isPartOf": { "@type": "Periodical", "name": "Knowledge-Based Systems" },
-          "url": "https://marcao02.github.io/publications.html#cardoso2020construction",
-          "identifier": "cardoso2020construction"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#cardoso2018supporting",
-          "headline": "Supporting biomedical ontology evolution by identifying outdated concepts and the required type of change",
-          "author": [
-            { "@type": "Person", "name": "Silvio Domingos Cardoso" },
-            { "@type": "Person", "name": "Cedric Pruski" },
-            { "@type": "Person", "name": "Marcos Da Silveira" }
-          ],
-          "datePublished": "2018",
-          "isPartOf": { "@type": "Periodical", "name": "Journal of Biomedical Informatics" },
-          "url": "https://marcao02.github.io/publications.html#cardoso2018supporting",
-          "identifier": "cardoso2018supporting"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#dos2015recognizing",
-          "headline": "Recognizing lexical and semantic change patterns in evolving life science ontologies to inform mapping adaptation",
-          "author": [
-            { "@type": "Person", "name": "Julio Cesar Dos Reis" },
-            { "@type": "Person", "name": "Duy Dinh" },
-            { "@type": "Person", "name": "Marcos Da Silveira" }
-          ],
-          "datePublished": "2015",
-          "isPartOf": { "@type": "Periodical", "name": "Artificial Intelligence in Medicine" },
-          "url": "https://marcao02.github.io/publications.html#dos2015recognizing",
-          "identifier": "dos2015recognizing"
-        },
-        {
-          "@type": "ScholarlyArticle",
-          "@id": "https://marcao02.github.io/publications.html#zamborlini2016inferring",
-          "headline": "Inferring Recommendation Interactions in Clinical Guidelines: Case-studies on Multimorbidity",
-          "author": [
-            { "@type": "Person", "name": "Veruska Zamborlini" },
-            { "@type": "Person", "name": "Rinke Hoekstra" },
-            { "@type": "Person", "name": "Marcos Da Silveira" }
-          ],
-          "datePublished": "2016",
-          "isPartOf": { "@type": "Periodical", "name": "Semantic Web Journal" },
-          "url": "https://marcao02.github.io/publications.html#zamborlini2016inferring",
-          "identifier": "zamborlini2016inferring"
-        }
-      ]
-    }
-    </script>
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
-    <!-- Custom styles for this template -->
-    <link href="css/agency.min.css" rel="stylesheet">
-	  <link href="css/agency_custom.css" rel="stylesheet">
-  <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml" />
-  </head>
-
-
-  <body id="page-top">
-
-
-    <!-- Navigation (updated) -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top animated-nav" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand" href="index.html">Marcos Da Silveira</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-            <li class="nav-item"><a class="nav-link" href="#research">Research</a></li>
-            <li class="nav-item"><a class="nav-link" href="#knowledge-graph">Graph</a></li>
-            <li class="nav-item"><a class="nav-link" href="publications.html">Publications</a></li>
-            <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-            <li class="nav-item"><a class="nav-link" href="about.html#aob">Activities</a></li>
-            <li class="nav-item"><a class="nav-link" href="about.html#bio">CV</a></li>
-            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-            <li class="nav-item d-flex align-items-center ml-lg-2">
-              <button id="themeToggle" class="btn btn-sm btn-outline-light" type="button" aria-label="Toggle dark mode">
-                <i class="fas fa-moon"></i>
-                <i class="fas fa-sun"></i>
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marcos Da Silveira, knowledge graphs and hybrid AI</title>
+<meta name="description" content="Marcos Da Silveira, lead researcher at LIST in Luxembourg: knowledge graphs, ontology evolution, hybrid and explainable AI, eHealth and skills data.">
+<link rel="canonical" href="https://marcao02.github.io/">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f3f5f8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1830" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Marcos Da Silveira, knowledge graphs and hybrid AI">
+<meta property="og:description" content="Marcos Da Silveira, lead researcher at LIST in Luxembourg: knowledge graphs, ontology evolution, hybrid and explainable AI, eHealth and skills data.">
+<meta property="og:url" content="https://marcao02.github.io/">
+<meta name="twitter:card" content="summary">
+<script>
+  try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<link rel="stylesheet" href="css/site.css">
+<link rel="modulepreload" href="js/site.js">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Person", "name": "Marcos Da Silveira", "jobTitle": "Lead Researcher in knowledge graphs and hybrid AI", "worksFor": {"@type": "ResearchOrganization", "name": "Luxembourg Institute of Science and Technology (LIST)", "url": "https://www.list.lu/"}, "alumniOf": {"@type": "CollegeOrUniversity", "name": "Université Toulouse III – Paul Sabatier"}, "email": "mailto:marcos.dasilveira@list.lu", "image": "https://marcao02.github.io/img/portrait.jpg", "url": "https://marcao02.github.io", "sameAs": ["https://scholar.google.lu/citations?hl=en&user=tS76PyMAAAAJ", "https://orcid.org/0000-0002-2604-3645", "https://dblp.org/pid/s/Silveira:Marcos_Da", "https://www.researchgate.net/profile/Marcos_Silveira"], "knowsAbout": ["Knowledge graphs", "Ontologies", "Semantic Web", "Hybrid AI", "Explainable AI", "eHealth", "Large language models"]}</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-name" href="index.html">Marcos Da Silveira</a>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <ul><li><a href="index.html" aria-current="page">Home</a></li><li><a href="research.html">Research</a></li><li><a href="publications.html">Publications</a></li><li><a href="about.html">About</a></li></ul>
     </nav>
+    <button type="button" class="icon-btn" data-theme-toggle aria-label="Switch theme"><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" hidden><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>
+    <button type="button" class="icon-btn menu-btn" data-menu-toggle aria-expanded="false" aria-controls="site-nav" aria-label="Menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  </div>
+</header>
+<main id="main">
 
+<section class="hero" aria-labelledby="hero-title">
+  <canvas class="hero-graph" id="hero-graph" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <h1 id="hero-title">Marcos Da Silveira</h1>
+    <p class="role">Lead Researcher in knowledge graphs and hybrid AI at the Luxembourg Institute of Science and Technology (LIST)</p>
+    <p class="pitch">I build knowledge that machines can reason with, and keep it correct as the world it describes changes: medical terminologies, the language of historical testimonies, the skills of Europe's workforce.</p>
+    <div class="actions">
+      <a class="btn" href="publications.html">Read the publications</a>
+      <a class="btn secondary" href="#contact">Get in touch</a>
+    </div>
+  </div>
+  <div class="hero-legend">
+    <span class="year" id="graph-year" aria-hidden="true">2026</span>
+    <p>Topics of my <span id="pub-total">102</span> papers, appearing in the year I first wrote about them</p>
+    <button type="button" class="icon-btn" id="graph-pause" aria-pressed="false" aria-label="Pause the graph animation"><svg class="pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg><svg class="play" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" hidden><path d="M7 5v14l12-7z"/></svg></button>
+  </div>
+</section>
 
-    <!-- Header -->
-    <header class="masthead hero">
-      <div class="container hero-flex">
-        <div class="hero-left">
-          <h1 class="hero-name">Marcos <span class="hero-accent">Da Silveira</span></h1>
-          <p class="hero-sub">Research Leader in Knowledge Graphs, Hybrid & Explainable AI, and eHealth innovation.</p>
-          <ul class="hero-tags">
-            <li>Knowledge Engineering</li>
-            <li>Semantic Web</li>
-            <li>Hybrid AI</li>
-            <li>Explainability</li>
-            <li>eHealth</li>
-          </ul>
-          <div class="hero-ctas">
-            <a class="btn btn-primary btn-lg mr-2" href="#about">About Me</a>
-            <a class="btn btn-outline-light btn-lg" href="publications.html">Publications</a>
-          </div>
-        </div>
-        <div class="hero-right">
-          <div class="hero-photo-wrap">
-            <img src="img/team/mdasilveira2.jpg" alt="Portrait of Dr. Marcos Da Silveira" class="hero-photo" loading="lazy" decoding="async" />
-            <svg class="hero-blob" viewBox="0 0 300 300" aria-hidden="true"><defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2c5aa0"/><stop offset="50%" stop-color="#5f9cf9"/><stop offset="100%" stop-color="#ffc107"/></linearGradient></defs><path fill="url(#grad)" fill-opacity="0.25" d="M149.2 292.3c-25.6 1.4-51.4-3.2-73.7-16.2-27-15.8-54.2-37.5-64.5-67.7-10.3-30.2-2.6-66.9 14.3-94.4 15.1-24.3 42.9-35.5 69.3-47.2 28-12.3 57.2-29.3 86.3-21.2 29.1 8.1 45.9 39.9 59.6 67.9 12.6 25.4 19.5 53.6 12.4 80.8-7.1 27.2-24.5 49.4-47.3 66.1-17.9 13.1-39.8 30.1-56.4 31.9z"/></svg>
-          </div>
-        </div>
+<section class="section" aria-labelledby="themes-title">
+  <div class="wrap">
+    <h2 id="themes-title" class="reveal">What I work on</h2>
+    <p class="lede reveal">Hybrid AI that combines formal reasoning with statistical learning, applied where knowledge changes fast and errors are costly.</p>
+    <div class="themes">
+      <article class="theme reveal">
+        <h3><span class="dot" style="--c: var(--theme-evolving-knowledge)"></span>Knowledge that stays correct over time</h3>
+        <p>Ontologies, terminologies and knowledge graphs change with every release. I build methods that detect those changes and repair the mappings and annotations that depend on them.</p>
+        <ul><li><a href="research.html#dynamo">DYNAMO</a></li><li><a href="research.html#elisa">ELISA</a></li><li><a href="research.html#dynaccurate">Dynaccurate</a></li><li><a href="research.html#moka">MOKA</a></li></ul>
+      </article><article class="theme reveal">
+        <h3><span class="dot" style="--c: var(--theme-health)"></span>Knowledge for health</h3>
+        <p>Formal models of clinical guidelines, conflict detection for patients with several conditions, adaptive treatment plans, and the architecture of Luxembourg's eHealth platform.</p>
+        <ul><li><a href="research.html#saccom">SACCOM</a></li><li><a href="research.html#metis">METIS</a></li><li><a href="research.html#hkg4covid">HKG4COVID</a></li></ul>
+      </article><article class="theme reveal">
+        <h3><span class="dot" style="--c: var(--theme-language-skills)"></span>Language, history and skills</h3>
+        <p>How the meaning of words shifts across decades of documents, and how skills data can be shared and matched with training, with LLMs and symbolic AI working together.</p>
+        <ul><li><a href="research.html#d4h">D4H</a></li><li><a href="research.html#ds4skills">Data Space for Skills</a></li><li><a href="research.html#aifactory">AI Factory</a></li></ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="latest-title">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <h2 id="latest-title">Latest publications</h2>
+      <a href="publications.html">All publications</a>
+    </div>
+    <ol class="pub-list" id="latest-pubs" aria-live="off"></ol>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="projects-title">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <h2 id="projects-title">Selected projects</h2>
+      <a href="research.html">All ten projects</a>
+    </div>
+    <ul class="project-list" id="selected-projects"></ul>
+  </div>
+</section>
+
+<section class="section" id="contact" aria-labelledby="contact-title">
+  <div class="wrap">
+    <div class="contact reveal">
+      <img class="portrait" src="img/portrait.jpg" alt="" width="96" height="96" loading="lazy">
+      <div>
+        <h2 id="contact-title">Working on discovering and evolving knowledge?</h2>
+        <p>I welcome collaborations, project proposals and PhD or postdoc applications.</p>
+        <ul class="profiles"><li><a href="https://scholar.google.lu/citations?hl=en&user=tS76PyMAAAAJ">Google Scholar</a></li><li><a href="https://orcid.org/0000-0002-2604-3645">ORCID</a></li><li><a href="https://dblp.org/pid/s/Silveira:Marcos_Da">DBLP</a></li><li><a href="https://www.researchgate.net/profile/Marcos_Silveira">ResearchGate</a></li></ul>
       </div>
-      <!-- Vertical logo rail on right -->
-      <div class="logo-rail" aria-label="Project logos scrolling list">
-        <div class="logo-rail-track">
-          <img src="img/logo/ds4skillsgo.png" alt="Data Space for Skills" />
-          <img src="img/logo/aifactory.png" alt="AI Factory" />
-          <img src="img/logo/d4h.png" alt="Deep Data Science of Digital History" />
-          <img src="img/logo/moka.jpeg" alt="MOKA" />
-          <img src="img/logo/dynaccurate.png" alt="Dynaccurate" />
-          <img src="img/logo/hkg4covid.png" alt="HKG4COVID" />
-          <img src="img/logo/Elisalogo.png" alt="ELISA" />
-          <img src="img/logo/Metis.png" alt="METIS" />
-          <img src="img/logo/Saccom.png" alt="SACCOM" />
-          <img src="img/logo/Dynamo-logo.jpg" alt="DYNAMO" />
-          <!-- duplicate set for seamless upward loop -->
-          <img src="img/logo/ds4skillsgo.png" alt="Data Space for Skills" />
-          <img src="img/logo/aifactory.png" alt="AI Factory" />
-          <img src="img/logo/d4h.png" alt="Deep Data Science of Digital History" />
-          <img src="img/logo/moka.jpeg" alt="MOKA" />
-          <img src="img/logo/dynaccurate.png" alt="Dynaccurate" />
-          <img src="img/logo/hkg4covid.png" alt="HKG4COVID" />
-          <img src="img/logo/Elisalogo.png" alt="ELISA" />
-          <img src="img/logo/Metis.png" alt="METIS" />
-          <img src="img/logo/Saccom.png" alt="SACCOM" />
-          <img src="img/logo/Dynamo-logo.jpg" alt="DYNAMO" />
-        </div>
+      <div class="email-row">
+        <a class="btn" href="mailto:marcos.dasilveira@list.lu">Email me</a>
+        <button type="button" class="btn secondary" data-copy="marcos.dasilveira@list.lu"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>Copy address</button>
+        <span class="copied-msg" role="status"></span>
       </div>
-    </header>
+    </div>
+  </div>
+</section>
 
-    <!-- About Section -->
-    <section class="page-section" id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">About</h2>
-            <h3 class="section-subheading text-muted">Leading Research in Knowledge-Based Systems and AI</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">
-              Dr. Marcos Da Silveira is a Leader Researcher at the Luxembourg Institute of Science and Technology (LIST), 
-              specializing in making knowledge-based systems more collaborative and understandable. With expertise in 
-              developing hybrid AI approaches that combine traditional reasoning with modern statistical methods, 
-              he helps advance intelligent software agents and decision support systems.
-            </p>
-            <p class="large text-muted">
-              His work spans Semantic Web Technologies, Machine Learning, Generative AI, and Formal Reasoning, 
-              contributing to projects that extract key information from multimodal sources, maintain knowledge 
-              graph accuracy over time, and bridge the gap between industry needs and educational training.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Knowledge Graph Section (moved inside body) -->
-    <section id="knowledge-graph" class="page-section bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Knowledge Graph</h2>
-            <h3 class="section-subheading text-muted">Interactive visualization of selected research topics</h3>
-          </div>
-        </div>
-        <div class="row align-items-center">
-          <div class="col-md-7">
-            <div id="graphViz" class="w-100" style="height:260px; position:relative;">
-              <svg id="kgSvg" viewBox="0 0 600 260" role="img" aria-label="Interactive knowledge graph"></svg>
-              <!-- Inline fallback data for file:// usage -->
-              <script id="kgData" type="application/json">{
-                "nodes": [
-                  { "id": "Ontology", "group": "KR", "size": 18 },
-                  { "id": "Semantic Web", "group": "KR", "size": 14 },
-                  { "id": "Knowledge Graphs", "group": "KR", "size": 16 },
-                  { "id": "Explainable AI", "group": "AI", "size": 12 },
-                  { "id": "Hybrid AI", "group": "AI", "size": 13 },
-                  { "id": "Machine Learning", "group": "AI", "size": 15 },
-                  { "id": "Clinical Guidelines", "group": "eHealth", "size": 11 },
-                  { "id": "eHealth", "group": "eHealth", "size": 14 },
-                  { "id": "Data Sharing", "group": "eHealth", "size": 10 },
-                  { "id": "Skills Intelligence", "group": "Skills", "size": 13 }
-                ],
-                "links": [
-                  { "source": "Ontology", "target": "Semantic Web", "weight": 2 },
-                  { "source": "Ontology", "target": "Knowledge Graphs", "weight": 3 },
-                  { "source": "Knowledge Graphs", "target": "Hybrid AI", "weight": 2 },
-                  { "source": "Hybrid AI", "target": "Explainable AI", "weight": 1 },
-                  { "source": "Machine Learning", "target": "Hybrid AI", "weight": 2 },
-                  { "source": "eHealth", "target": "Clinical Guidelines", "weight": 2 },
-                  { "source": "eHealth", "target": "Data Sharing", "weight": 1 },
-                  { "source": "Ontology", "target": "eHealth", "weight": 1 },
-                  { "source": "Skills Intelligence", "target": "Knowledge Graphs", "weight": 1 },
-                  { "source": "Skills Intelligence", "target": "Machine Learning", "weight": 1 }
-                ]
-              }</script>
-            </div>
-          </div>
-            <div class="col-md-5">
-              <p class="text-muted">This illustrative bubble chart highlights thematic areas across my research: knowledge representation (Ontology), semantic interoperability (Semantic Web) and intelligent systems (AI). It will be extended with real bibliographic and project metadata.</p>
-              <ul class="text-muted small mb-3">
-                <li>Size ~ relative focus</li>
-                <li>Position ~ conceptual proximity (placeholder)</li>
-                <li>Color ~ thematic cluster</li>
-              </ul>
-              <a href="publications.html" class="btn btn-outline-primary btn-sm">Explore Publications</a>
-            </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Featured Project Highlights -->
-    <section id="highlights" class="page-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Featured Initiatives</h2>
-            <h3 class="section-subheading text-muted">Representative projects illustrating impact and focus areas</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 mb-4">
-            <div class="highlight-card h-100">
-              <div class="highlight-badge">Skills</div>
-              <h5>Data Space for Skills</h5>
-              <p class="small text-muted">Building a trusted European ecosystem to share and operationalize skills intelligence.</p>
-              <a href="projects.html#projects" class="stretched-link">Learn more</a>
-            </div>
-          </div>
-            <div class="col-md-4 mb-4">
-              <div class="highlight-card h-100">
-                <div class="highlight-badge">AI</div>
-                <h5>AI Factory Luxembourg</h5>
-                <p class="small text-muted">Full lifecycle support for AI adoption, governance, and market-aligned capability development.</p>
-                <a href="projects.html#aifactory" class="stretched-link">Learn more</a>
-              </div>
-            </div>
-            <div class="col-md-4 mb-4">
-              <div class="highlight-card h-100">
-                <div class="highlight-badge">KG</div>
-                <h5>MOKA & Dynaccurate</h5>
-                <p class="small text-muted">Evolution-aware knowledge graph completion and semantic maintenance at scale.</p>
-                <a href="projects.html#dyn" class="stretched-link">Learn more</a>
-              </div>
-            </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Infoboxes Section -->
-    <section id="infoboxes" class="page-section bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Interactive Concepts</h2>
-            <h3 class="section-subheading text-muted">Hover (or tap on mobile) to reveal quick definitions</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 mb-4">
-            <div class="infobox">
-              <span class="infobox-title">Ontology</span>
-              <div class="infobox-content">A structured specification of concepts and relationships within a domain enabling interoperability.</div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="infobox">
-              <span class="infobox-title">Semantic Web</span>
-              <div class="infobox-content">An ecosystem of standards allowing data to be linked and semantically enriched for machine understanding.</div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="infobox">
-              <span class="infobox-title">Explainable AI</span>
-              <div class="infobox-content">Techniques that make model behavior transparent, fostering trust and accountability.</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- Research Interests -->
-  <section class="page-section bg-light" id="research">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Research Interests</h2>
-            <h3 class="section-subheading text-muted">Core areas of expertise and innovation</h3>
-          </div>
-        </div>
-        <div class="row text-center">
-          <div class="col-md-3 research-item" data-projects="MOKA; Dynaccurate; DYNAMO; ELISA; HKG4COVID" data-topic="Knowledge Graphs & Ontologies">
-            <span class="fa-stack fa-3x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-brain fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">Knowledge Graphs & Ontologies</h4>
-            <p class="text-muted">Semantic representation, evolution, and alignment.</p>
-          </div>
-          <div class="col-md-3 research-item" data-projects="AI Factory; SACCOM; METIS" data-topic="AI & Machine Learning">
-            <span class="fa-stack fa-3x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-robot fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">AI & Machine Learning</h4>
-            <p class="text-muted">Hybrid reasoning and explainability for decision support.</p>
-          </div>
-          <div class="col-md-3 research-item" data-projects="HKG4COVID; Dynaccurate; SACCOM" data-topic="eHealth & Medical Informatics">
-            <span class="fa-stack fa-3x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-heartbeat fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">eHealth & Medical Informatics</h4>
-            <p class="text-muted">Temporal semantic models & guideline support.</p>
-          </div>
-          <div class="col-md-3 research-item" data-projects="Data Space for Skills; AI Factory" data-topic="Skills & Labor Market Analysis">
-            <span class="fa-stack fa-3x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">Skills & Labor Market Analysis</h4>
-            <p class="text-muted">Skills intelligence & data ecosystems.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-        <!-- Contact  -->
-        <section class="page-section" id="contact">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Get in touch</h2>
-                <h3 class="section-subheading text-muted">Let's collaborate on advancing AI and knowledge systems</h3>
-              </div>
-            </div>
-            
-            <div class="row">
-              <div class="col-lg-6 mx-auto text-center">
-                <div class="timeline-image mb-4">
-                  <picture>
-                    <!-- WebP source removed (file not present). Add img/team/mdasilveira2.webp if available, then restore. -->
-                    <source srcset="img/team/mdasilveira2.jpg" type="image/jpeg" />
-                    <img class="rounded-circle img-fluid" src="img/team/mdasilveira2.jpg" alt="Dr. Marcos Da Silveira" width="200" height="200" loading="lazy" decoding="async" style="width: 200px; height: 200px; object-fit: cover;" />
-                  </picture>
-                </div>
-                <h4 class="section-heading">Dr. Marcos Da Silveira</h4>
-                <p class="text-muted">Senior Researcher, Data Science & Analytics</p>
-                <p class="text-muted">
-                  <strong>Luxembourg Institute of Science and Technology (LIST)</strong><br>
-                  5, Av. des Hauts-Fourneaux<br>
-                  L-4362 Esch-sur-Alzette, Luxembourg<br>
-                  Phone: (+352) 275 888 2371
-                </p>
-                <p class="lead">
-            </header>
-            <!-- Logos band (separate region under hero) -->
-            <section class="logos-band py-3">
-              <div class="container">
-                <div class="logo-marquee-wrapper" aria-label="Project logos scrolling list">
-                  <div class="logo-marquee">
-                    <div class="logo-track">
-                      <img src="img/logo/ds4skillsgo.png" alt="Data Space for Skills" loading="lazy" decoding="async" />
-                      <img src="img/logo/aifactory.png" alt="AI Factory" loading="lazy" decoding="async" />
-                      <img src="img/logo/d4h.png" alt="Deep Data Science of Digital History" loading="lazy" decoding="async" />
-                      <img src="img/logo/moka.jpeg" alt="MOKA" loading="lazy" decoding="async" />
-                      <img src="img/logo/dynaccurate.png" alt="Dynaccurate" loading="lazy" decoding="async" />
-                      <img src="img/logo/hkg4covid.png" alt="HKG4COVID" loading="lazy" decoding="async" />
-                      <img src="img/logo/Elisalogo.png" alt="ELISA" loading="lazy" decoding="async" />
-                      <img src="img/logo/Metis.png" alt="METIS" loading="lazy" decoding="async" />
-                      <img src="img/logo/Saccom.png" alt="SACCOM" loading="lazy" decoding="async" />
-                      <img src="img/logo/Dynamo-logo.jpg" alt="DYNAMO" loading="lazy" decoding="async" />
-                      <img src="img/logo/ds4skillsgo.png" alt="Data Space for Skills" loading="lazy" decoding="async" />
-                      <img src="img/logo/aifactory.png" alt="AI Factory" loading="lazy" decoding="async" />
-                      <img src="img/logo/d4h.png" alt="Deep Data Science of Digital History" loading="lazy" decoding="async" />
-                      <img src="img/logo/moka.jpeg" alt="MOKA" loading="lazy" decoding="async" />
-                      <img src="img/logo/dynaccurate.png" alt="Dynaccurate" loading="lazy" decoding="async" />
-                      <img src="img/logo/hkg4covid.png" alt="HKG4COVID" loading="lazy" decoding="async" />
-                      <img src="img/logo/Elisalogo.png" alt="ELISA" loading="lazy" decoding="async" />
-                      <img src="img/logo/Metis.png" alt="METIS" loading="lazy" decoding="async" />
-                      <img src="img/logo/Saccom.png" alt="SACCOM" loading="lazy" decoding="async" />
-                      <img src="img/logo/Dynamo-logo.jpg" alt="DYNAMO" loading="lazy" decoding="async" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-                 
-                </div>
-              </div>
-              <div class="col-md-12">
-                <div class="d-flex justify-content-center flex-wrap mt-4 social-inline-icons">
-                  <a class="mx-3 text-center" href="https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ" target="_blank" aria-label="Google Scholar profile">
-                    <span class="fa-stack fa-2x">
-                      <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <div class="small text-secondary mt-1">Scholar</div>
-                  </a>
-                  <a class="mx-3 text-center" href="https://www.researchgate.net/profile/Marcos_Silveira" target="_blank" aria-label="ResearchGate profile">
-                    <span class="fa-stack fa-2x">
-                      <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <div class="small text-secondary mt-1">ResearchGate</div>
-                  </a>
-                  <a class="mx-3 text-center" href="https://orcid.org/0000-0002-2604-3645" target="_blank" aria-label="ORCID profile">
-                    <span class="fa-stack fa-2x">
-                      <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <div class="small text-secondary mt-1">ORCID</div>
-                  </a>
-                  <a class="mx-3 text-center" href="https://dblp.uni-trier.de/pers/hd/s/Silveira:Marcos_Da" target="_blank" aria-label="DBLP entry">
-                    <span class="fa-stack fa-2x">
-                      <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                      <i class="fas fa-book-reader fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <div class="small text-secondary mt-1">DBLP</div>
-                  </a>
-                </div>
-              </div>
-            </div>
-        </section>
-
-
-
-  <!-- Footer -->
-    <footer class="footer py-4">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-4 text-lg-left">
-            <span class="copyright">Copyright &copy; Dr. Marcos Da Silveira 2024</span>
-          </div>
-          <div class="col-lg-4 my-3 my-lg-0">
-            <a class="btn btn-dark btn-social mx-2" href="https://scholar.google.lu/citations?hl=fr&user=tS76PyMAAAAJ" target="_blank">
-              <i class="fas fa-graduation-cap"></i>
-            </a>
-            <a class="btn btn-dark btn-social mx-2" href="https://www.researchgate.net/profile/Marcos_Silveira" target="_blank">
-              <i class="fab fa-researchgate"></i>
-            </a>
-            <a class="btn btn-dark btn-social mx-2" href="https://orcid.org/0000-0002-2604-3645" target="_blank">
-              <i class="fab fa-orcid"></i>
-            </a>
-          </div>
-          <div class="col-lg-4 text-lg-right">
-            <a class="mr-3" href="mailto:marcos.dasilveira@list.lu">Contact</a>
-            <a href="https://www.list.lu/" target="_blank">LIST Luxembourg</a>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-
-
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-    <!-- Contact form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
-
-    <!-- Performance: defer non-critical script -->
-  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js" defer></script>
-  <script src="js/knowledge_graph.js" defer></script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function(){
-        // Initialize shared knowledge graph (lazy via IntersectionObserver)
-        if(window.initKnowledgeGraph){
-          initKnowledgeGraph({
-            svgSelector:'#kgSvg',
-            json:'data/knowledge_graph.json',
-            legend:true,
-            observe:false
-          });
-        }
-        // Highlight active nav link (hash or path)
-        const links = document.querySelectorAll('#mainNav .nav-link');
-        links.forEach(l=>{ if(l.getAttribute('href') === window.location.pathname.split('/').pop() || l.getAttribute('href') === window.location.hash){ l.classList.add('active'); }});
-
-        // Theme toggle
-        const root = document.documentElement;
-        const saved = localStorage.getItem('theme');
-        if(saved){ root.setAttribute('data-theme', saved); }
-        const toggleBtn = document.getElementById('themeToggle');
-        toggleBtn?.addEventListener('click', ()=>{
-          const current = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-          if(current === 'light') { root.removeAttribute('data-theme'); localStorage.setItem('theme',''); }
-          else { root.setAttribute('data-theme','dark'); localStorage.setItem('theme','dark'); }
-        });
-        // Smooth dark mode transition
-        const transitionCSS = document.createElement('style');
-        transitionCSS.innerHTML = `:root, body, .navbar, .infobox, .svg-wrapper { transition: background-color .45s ease, color .45s ease; }`;
-        document.head.appendChild(transitionCSS);
-
-        // Research interest hover tooltip
-        const tooltip = document.createElement('div');
-        tooltip.className = 'research-tooltip';
-        document.body.appendChild(tooltip);
-        function showTip(e, el){
-          const projects = el.getAttribute('data-projects');
-          const topic = el.getAttribute('data-topic');
-          tooltip.innerHTML = `<strong>${topic}</strong><br><span class="small">${projects.split(';').map(p=>p.trim()).join('<br>')}</span>`;
-          tooltip.style.opacity = '1';
-          moveTip(e);
-        }
-        function hideTip(){ tooltip.style.opacity='0'; }
-        function moveTip(e){ tooltip.style.left = (e.pageX+14)+"px"; tooltip.style.top = (e.pageY+14)+"px"; }
-        document.querySelectorAll('.research-item').forEach(el=>{
-          el.addEventListener('mousemove', e=>{ showTip(e, el); });
-          el.addEventListener('mouseleave', hideTip);
-          el.addEventListener('focus', e=>{ showTip(e, el); });
-          el.addEventListener('blur', hideTip);
-        });
-      });
-    </script>
-  </body>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© <span data-year-now>2026</span> Marcos Da Silveira, Luxembourg Institute of Science and Technology</p>
+    <ul><li><a href="https://scholar.google.lu/citations?hl=en&user=tS76PyMAAAAJ">Google Scholar</a></li><li><a href="https://orcid.org/0000-0002-2604-3645">ORCID</a></li><li><a href="https://dblp.org/pid/s/Silveira:Marcos_Da">DBLP</a></li><li><a href="https://www.researchgate.net/profile/Marcos_Silveira">ResearchGate</a></li></ul>
+  </div>
+</footer>
+<script type="module" src="js/site.js"></script>
+<script type="module" src="js/home.js"></script>
+</body>
 </html>

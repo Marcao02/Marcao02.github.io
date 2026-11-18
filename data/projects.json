@@ -1,0 +1,157 @@
+[
+  {
+    "id": "ds4skills",
+    "name": "Data Space for Skills",
+    "title": "Preparing the European Data Space for Skills",
+    "start": 2025,
+    "end": 2027,
+    "partners": "LIST with European partners",
+    "themes": [
+      "language-skills"
+    ],
+    "logo": "img/logo/ds4skillsgo.png",
+    "url": "https://ds4skills.eu/",
+    "summary": "A trusted, human-centred ecosystem for sharing and accessing skills data, laying the ground for the first European Data Space for Skills.",
+    "details": "The project prepares the future deployment of the data space so that organisations and individuals can exchange skills information with practical benefits in the digital age."
+  },
+  {
+    "id": "aifactory",
+    "name": "AI Factory Luxembourg",
+    "title": "AI services for Luxembourg businesses",
+    "start": 2025,
+    "end": 2027,
+    "partners": "LIST",
+    "themes": [
+      "language-skills"
+    ],
+    "logo": "img/logo/aifactory.png",
+    "url": "https://aifactory.lu/",
+    "summary": "Guides businesses from idea to production: solution building, AI maturity assessments, regulatory sandboxes and data-sharing frameworks.",
+    "details": "My part follows the skills and labour market of AI, so that training offers keep pace with what companies adopting AI actually need."
+  },
+  {
+    "id": "moka",
+    "name": "MOKA",
+    "title": "Management and completion of dynamic knowledge graphs",
+    "start": 2024,
+    "end": 2026,
+    "partners": "LIST, MSCA Postdoctoral Fellowship with the ORKG group",
+    "themes": [
+      "evolving-knowledge"
+    ],
+    "logo": "img/logo/moka.jpeg",
+    "url": "",
+    "summary": "Methods to manage the evolution of large knowledge graphs, and to test how far LLMs can help maintain them.",
+    "details": "MOKA identifies and characterises the changes a knowledge graph undergoes when its domain evolves, represents that evolution in a Historical Knowledge Graph, and explores LLM support for maintenance."
+  },
+  {
+    "id": "d4h",
+    "name": "D4H",
+    "title": "Deep data science of digital history",
+    "start": 2023,
+    "end": 2027,
+    "partners": "LIST with the University of Luxembourg",
+    "themes": [
+      "language-skills",
+      "evolving-knowledge"
+    ],
+    "logo": "img/logo/d4h.png",
+    "url": "https://d4h.uni.lu/",
+    "summary": "Knowledge graphs and LLMs that detect how the meaning of words changes over time in historical documents.",
+    "details": "We formally define three kinds of semantic change and build algorithms to detect them: a meaning that becomes broader or narrower, one that turns pejorative or positive, and one that moves into metaphoric or metonymic use."
+  },
+  {
+    "id": "hkg4covid",
+    "name": "HKG4COVID",
+    "title": "Historical knowledge graph of COVID-19",
+    "start": 2020,
+    "end": 2021,
+    "partners": "LIST",
+    "themes": [
+      "evolving-knowledge",
+      "health"
+    ],
+    "logo": "img/logo/hkg4covid.png",
+    "url": "",
+    "summary": "Added the time dimension to COVID-19 knowledge graphs, so the evolution of what we knew about the disease can be followed.",
+    "details": "Existing graphs only captured the current state of knowledge. HKG4COVID kept its history, giving a view of how understanding of the disease developed."
+  },
+  {
+    "id": "dynaccurate",
+    "name": "Dynaccurate",
+    "title": "Maintenance of dynamic terminologies",
+    "start": 2019,
+    "end": 2021,
+    "partners": "LIST, now a Luxembourg spin-off",
+    "themes": [
+      "evolving-knowledge",
+      "health"
+    ],
+    "logo": "img/logo/dynaccurate.png",
+    "url": "",
+    "summary": "A web application that keeps data annotations correct as terminologies evolve. The result of seven years of research, it became a spin-off company.",
+    "details": "Legacy data stays annotated with the current version of a terminology, which preserves its value and removes out-of-date references. I was a lead designer and developer of the technology."
+  },
+  {
+    "id": "elisa",
+    "name": "ELISA",
+    "title": "Evolution of semantic annotations",
+    "start": 2015,
+    "end": 2018,
+    "partners": "LIST",
+    "themes": [
+      "evolving-knowledge",
+      "health"
+    ],
+    "logo": "img/logo/Elisalogo.png",
+    "url": "https://www.elisa-project.lu/",
+    "summary": "Tools that understand how ontologies evolve and repair the semantic annotations that depend on them.",
+    "details": "Annotations are updated directly when they can be modified; otherwise a query-enrichment mechanism reflects the ontology's evolution so annotated data remains searchable. Two life-science cases served as testbeds."
+  },
+  {
+    "id": "metis",
+    "name": "METIS",
+    "title": "Knowledge representation for clinical guidelines",
+    "start": 2013,
+    "end": 2017,
+    "partners": "VU Amsterdam and LIST",
+    "themes": [
+      "health"
+    ],
+    "logo": "img/logo/Metis.png",
+    "url": "",
+    "summary": "Formal models of clinical guidelines that detect conflicts between treatments for patients with several conditions.",
+    "details": "The project identified what knowledge is needed to reason about guidelines, formalised interaction rules in a reusable way, and implemented them with Semantic Web technologies and medical Linked Open Data."
+  },
+  {
+    "id": "saccom",
+    "name": "SACCOM",
+    "title": "Self-adaptation of collaborative medical systems",
+    "start": 2013,
+    "end": 2016,
+    "partners": "LIST and LAAS-CNRS",
+    "themes": [
+      "health"
+    ],
+    "logo": "img/logo/Saccom.png",
+    "url": "https://www.fnr.lu/projects/self-adaptation-and-self-configuration-of-collaborative-medical-systems/",
+    "summary": "Ontologies, big data and IoT for diabetes care: treatment plans that adapt as the patient's state and environment change.",
+    "details": "Treatment plans and their goals were described with standard terminologies such as SNOMED CT and ICD, and autonomic-computing algorithms reconfigured medical services to personalise care."
+  },
+  {
+    "id": "dynamo",
+    "name": "DYNAMO",
+    "title": "Reconciliation of dynamic medical knowledge organisation systems",
+    "start": 2011,
+    "end": 2014,
+    "partners": "LIST",
+    "themes": [
+      "evolving-knowledge",
+      "health"
+    ],
+    "logo": "img/logo/Dynamo-logo.jpg",
+    "url": "https://www.list.lu/en/research/project/dynamo/",
+    "summary": "A formal framework that repairs mappings between medical terminologies when a new version is released, without recomputing them all.",
+    "details": "It takes into account the kind of change affecting each element and the nature of the existing mappings, so the mappings that a release invalidates are adapted automatically."
+  }
+]

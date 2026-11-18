@@ -1,0 +1,2502 @@
+[
+ {
+  "id": "tS76PyMAAAAJ:PELIpwtuRlgC",
+  "title": "Deepening citation understanding in scientific literature via LLM-powered context extraction",
+  "authors": [
+   "Thu Huong Nguyen",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2026,
+  "type": "Journal",
+  "venue": "Scientometrics",
+  "doi": "10.1007/s11192-026-05637-7",
+  "url": "",
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:PELIpwtuRlgC",
+  "source": "scholar",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Large language models"
+  ],
+  "pdf": "https://www.researchsquare.com/article/rs-8640955/latest.pdf"
+ },
+ {
+  "id": "tS76PyMAAAAJ:5awf1xo2G04C",
+  "title": "Prioritising substances of concern for monitoring by using knowledge graphs and public datasets",
+  "authors": [
+   "Oona Freudenthal",
+   "Marcos Da Silveira",
+   "Louis Deladiennée",
+   "Ruth Moeller"
+  ],
+  "year": 2026,
+  "type": "Journal",
+  "venue": "Discover Public Health 23 (1)",
+  "doi": "10.1186/s12982-026-02876-0",
+  "url": "",
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:5awf1xo2G04C",
+  "source": "scholar",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Knowledge graphs"
+  ],
+  "pdf": "https://link.springer.com/content/pdf/10.1186/s12982-026-02876-0.pdf"
+ },
+ {
+  "id": "tS76PyMAAAAJ:eq2jaN3J8jMC",
+  "title": "Survey in characterizing semantic change",
+  "authors": [
+   "Jader Martins Camboim de Sá",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2026,
+  "type": "Journal",
+  "venue": "Natural Language Processing",
+  "doi": "10.1017/nlp.2026.10023",
+  "url": "",
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:eq2jaN3J8jMC",
+  "source": "scholar",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Word meaning"
+  ],
+  "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D44C587FC6FEEF90B1EDEF6FC6A70696/S2977042426100235a.pdf/div-class-title-survey-in-characterizing-semantic-change-div.pdf"
+ },
+ {
+  "id": "pruski2025bridging",
+  "title": "Bridging Skill Gaps: Combining Generative and Symbolic AI for Personalized Lifelong Learning Pathways",
+  "authors": [
+   "Cédric Pruski",
+   "Célia da Costa Pereira",
+   "Marcos Da Silveira",
+   "Gabriele Marconi",
+   "Marie Gallais",
+   "Andrea Tettamanzi"
+  ],
+  "year": 2025,
+  "type": "Conference",
+  "venue": "International Conference on Artificial Intelligence in Education",
+  "doi": "10.1007/978-3-031-98465-5_3",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Large language models",
+   "Skills & labour market"
+  ],
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:Mojj43d5GZwC"
+ },
+ {
+  "id": "pruski2025enhancing",
+  "title": "Enhancing ESCO with Generative AI: A Dynamic Approach to Supporting 21 st Century Education",
+  "authors": [
+   "Cédric Pruski",
+   "Marie Gallais",
+   "Marcos Da Silveira"
+  ],
+  "year": 2025,
+  "type": "Conference",
+  "venue": "2025 IEEE Global Engineering Education Conference (EDUCON)",
+  "doi": "10.1109/educon62633.2025.11016516",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Large language models",
+   "Skills & labour market"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:t6usbXjVLHcC"
+ },
+ {
+  "id": "marconi2025evaluating",
+  "title": "Evaluating ESCO skill classifiers",
+  "authors": [
+   "Gabriele Marconi",
+   "Inès Baer",
+   "Marcos Da Silveira",
+   "Marie Gallais",
+   "Cédric Pruski"
+  ],
+  "year": 2025,
+  "type": "Journal",
+  "venue": "Statistical Journal of the IAOS",
+  "doi": "10.1177/18747655251395229",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Skills & labour market"
+  ],
+  "cites": 5,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:AXPGKjj_ei8C"
+ },
+ {
+  "id": "de2025lane",
+  "title": "LANE: Lexical Adversarial Negative Examples for Word Sense Disambiguation",
+  "authors": [
+   "Jader Martins Camboim de Sá",
+   "Jooyoung Lee",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2025,
+  "type": "Preprint",
+  "venue": "arXiv preprint arXiv:2511.11234",
+  "doi": "10.48550/arxiv.2511.11234",
+  "url": "https://arxiv.org/abs/2511.11234",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Word meaning"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:eMMeJKvmdy0C",
+  "pdf": "https://arxiv.org/pdf/2511.11234"
+ },
+ {
+  "id": "nguyen2025semantic",
+  "title": "Semantic Similarity Analysis of Scientific Papers in Scholarly Knowledge Graphs",
+  "authors": [
+   "Thu Huong Nguyen",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2025,
+  "type": "Journal",
+  "venue": "",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Knowledge graphs"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:HE397vMXCloC"
+ },
+ {
+  "id": "10.63744@sTRxoCHdBgK5",
+  "title": "“Crying like a Baby”: Survival Analysis and the Multimodal Memory of Holocaust Survivors",
+  "authors": [
+   "Gabor Mihaly Toth",
+   "Mohamed Laib",
+   "Alina Bothe",
+   "Marcus Ma",
+   "Shrikanth Narayanan",
+   "Cedric Pruski",
+   "Marcos da Silveira"
+  ],
+  "year": 2025,
+  "type": "Journal",
+  "venue": "Anthology of Computers and the Humanities",
+  "doi": "10.63744/sTRxoCHdBgK5",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Digital history"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:tkaPQYYpVKoC",
+  "pdf": "https://anthology.ach.org/volumes/vol0003/crying-like-baby-survival-analysis-multimodal-of/10.63744@sTRxoCHdBgK5.pdf"
+ },
+ {
+  "id": "da2024knowledge",
+  "title": "A knowledge-sharing platform for space resources",
+  "authors": [
+   "Marcos Da Silveira",
+   "Louis Deladiennee",
+   "Emmanuel Scolan",
+   "Cedric Pruski"
+  ],
+  "year": 2024,
+  "type": "Journal",
+  "venue": "Data & Knowledge Engineering",
+  "doi": "10.1016/j.datak.2024.102286",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 7,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:q3oQSFYPqjQC"
+ },
+ {
+  "id": "cecil2024advanced",
+  "title": "Advanced Methodologies and Technologies for Innovative Information Systems",
+  "authors": [
+   "Roy R Cecil",
+   "João L Miranda",
+   "Mariana Nagy",
+   "Marcos Da Silveira",
+   "Massimiliano Zanin"
+  ],
+  "year": 2024,
+  "type": "Conference",
+  "venue": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+  "doi": "10.1109/bibm62325.2024.10822796",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:olpn-zPbct0C"
+ },
+ {
+  "id": "da2024combining",
+  "title": "Combining knowledge graphs and LLMs for hazardous chemical information management and reuse",
+  "authors": [
+   "Marcos Da Silveira",
+   "Louis Deladiennee",
+   "Kheira Acem",
+   "Oona Freudenthal"
+  ],
+  "year": 2024,
+  "type": "Conference",
+  "venue": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+  "doi": "10.1109/bibm62325.2024.10821991",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "Knowledge graphs",
+   "Large language models"
+  ],
+  "cites": 9,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:XiVPGOgt02cC",
+  "pdf": "https://arxiv.org/pdf/2412.09644"
+ },
+ {
+  "id": "da2024fair",
+  "title": "FAIR evaluation of ten widely used chemical datasets: lessons learned and recommendations",
+  "authors": [
+   "Marcos Da Silveira",
+   "Oona Freudenthal",
+   "Louis Deladiennee"
+  ],
+  "year": 2024,
+  "type": "Preprint",
+  "venue": "arXiv preprint arXiv:2407.15591",
+  "doi": "10.48550/arxiv.2407.15591",
+  "url": "https://arxiv.org/abs/2407.15591",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:J-pR_7NvFogC",
+  "pdf": "https://arxiv.org/pdf/2407.15591"
+ },
+ {
+  "id": "martins2024semantic",
+  "title": "Semantic Change Characterization with LLMs using Rhetorics",
+  "authors": [
+   "Jader Martins Camboim de Sá",
+   "Jooyoung Lee",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2024,
+  "type": "Preprint",
+  "venue": "arXiv e-prints",
+  "doi": "10.18653/v1/2026.lchange-1.9",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Large language models",
+   "Word meaning"
+  ],
+  "cites": 10,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:5ugPr518TE4C",
+  "pdf": "https://aclanthology.org/2026.lchange-1.9.pdf"
+ },
+ {
+  "id": "de2024socio",
+  "title": "Socio-cultural adapted chatbots: Harnessing Knowledge Graphs and Large Language Models for enhanced context awarenes",
+  "authors": [
+   "Jader Camboim de Sá",
+   "Dimitra Anastasiou",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2024,
+  "type": "Conference",
+  "venue": "Proceedings of the 1st Worskhop on Towards Ethical and Inclusive Conversational AI: Language Attitudes, Linguistic Diversity, and Language Rights (TEICAI 2024)",
+  "doi": "10.18653/v1/2024.teicai-1.4",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "language-skills"
+  ],
+  "topics": [
+   "Knowledge graphs",
+   "Large language models"
+  ],
+  "cites": 7,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:1qzjygNMrQYC",
+  "pdf": "https://aclanthology.org/2024.teicai-1.4.pdf"
+ },
+ {
+  "id": "martins2024survey",
+  "title": "Survey in Characterization of Semantic Change",
+  "authors": [
+   "Jader Martins Camboim de Sá",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2024,
+  "type": "Preprint",
+  "venue": "arXiv e-prints",
+  "doi": "10.48550/arXiv.2402.19088",
+  "url": "https://arxiv.org/abs/2402.19088",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Word meaning"
+  ],
+  "cites": 24,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:BrmTIyaxlBUC"
+ },
+ {
+  "id": "freudenthal2024unlocking",
+  "title": "Unlocking the potential of data harmonization and FAIRness in chemical risk assessment: lessons from practice and insights for policy development",
+  "authors": [
+   "Oona Freudenthal",
+   "Marcos Da Silveira",
+   "Louis Deladiennee"
+  ],
+  "year": 2024,
+  "type": "Journal",
+  "venue": "Environmental Sciences Europe",
+  "doi": "10.1186/s12302-024-01022-4",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 15,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:bnK-pcrLprsC",
+  "pdf": "https://enveurope.springeropen.com/counter/pdf/10.1186/s12302-024-01022-4"
+ },
+ {
+  "id": "diaz2023analysis",
+  "title": "Analysis and implementation of the DynDiff tool when comparing versions of ontology",
+  "authors": [
+   "Sara Diaz Benavides",
+   "Silvio D Cardoso",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2023,
+  "type": "Journal",
+  "venue": "Journal of Biomedical Semantics",
+  "doi": "10.1186/s13326-023-00295-7",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Ontologies"
+  ],
+  "cites": 8,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:eJXPG6dFmWUC",
+  "pdf": "https://jbiomedsem.biomedcentral.com/counter/pdf/10.1186/s13326-023-00295-7"
+ },
+ {
+  "id": "pruski2023plateforme",
+  "title": "Une plateforme de management des connaissances pour le domaine des ressources spatiales",
+  "authors": [
+   "Cédric Pruski",
+   "Louis Deladiennée",
+   "Emmanuel Scolan",
+   "Marcos Da Silveira"
+  ],
+  "year": 2023,
+  "type": "Conference",
+  "venue": "EGC",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:VOx2b1Wkg3QC"
+ },
+ {
+  "id": "benavides2022dyndiff",
+  "title": "DynDiff: A Tool for Comparing Versions of Large Ontologies",
+  "authors": [
+   "Sara Diaz Benavides",
+   "Silvio D Cardoso",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2022,
+  "type": "Conference",
+  "venue": "SeWeBMeDA@ ESWC",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Ontologies"
+  ],
+  "cites": 8,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:tOudhMTPpwUC"
+ },
+ {
+  "id": "da2022method",
+  "title": "Method for consolidating dynamic knowledge organization systems",
+  "authors": [
+   "Marcos Da Silveira",
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski"
+  ],
+  "year": 2022,
+  "type": "Other",
+  "venue": "",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:geHnlv5EZngC"
+ },
+ {
+  "id": "da2022persistent",
+  "title": "Persistent Identifiers and Their Limitations in a Dynamic Web",
+  "authors": [
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2022,
+  "type": "Conference",
+  "venue": "1st Workshop on Ontologies for FAIR and FAIR Ontologies (Onto4FAIR)",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:8AbLer7MMksC"
+ },
+ {
+  "id": "dos2021method",
+  "title": "Method for efficient mapping updates between dynamic knowledge organization systems",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cedric Pruski",
+   "Marcos Renato Da Silveira"
+  ],
+  "year": 2021,
+  "type": "Other",
+  "venue": "",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:dshw04ExmUIC"
+ },
+ {
+  "id": "cardoso2020construction",
+  "title": "Construction and exploitation of an historical knowledge graph to deal with the evolution of ontologies",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2020,
+  "type": "Journal",
+  "venue": "Knowledge-Based Systems",
+  "doi": "10.1016/j.knosys.2020.105508",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Knowledge graphs",
+   "Ontologies",
+   "Digital history"
+  ],
+  "cites": 62,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:u9iWguZQMMsC"
+ },
+ {
+  "id": "lin2020evaluating",
+  "title": "Evaluating Cross-lingual Semantic Annotation for Medical Forms",
+  "authors": [
+   "Ying-Chi Lin",
+   "Victor Christen",
+   "Anika Gro",
+   "Toralf Kirsten",
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Erhard Rahm"
+  ],
+  "year": 2020,
+  "type": "Conference",
+  "venue": "HEALTHINF",
+  "doi": "10.5220/0008979901450155",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Semantic annotation",
+   "eHealth"
+  ],
+  "cites": 7,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:Tiz5es2fbqcC"
+ },
+ {
+  "id": "isac2020ontology",
+  "title": "Ontology-Based Management of Cranial Computed Tomography Reports",
+  "authors": [
+   "Cassia Isac",
+   "José Viterbo",
+   "Aura Conci",
+   "Marcos Da Silveira"
+  ],
+  "year": 2020,
+  "type": "Conference",
+  "venue": "2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)",
+  "doi": "10.1109/cbms49503.2020.00048",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:738O_yMBCRsC"
+ },
+ {
+  "id": "cardoso2020graphe",
+  "title": "Un graphe de connaissance évolutif pour la représentation d'ontologies dynamiques",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Chantal Reynaud-Delaître",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2020,
+  "type": "Conference",
+  "venue": "Extraction et Gestion de Connaissances (EGC)",
+  "doi": "",
+  "url": "https://hal.science/hal-02470156",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:XiSMed-E-HIC",
+  "pdf": "https://hal.science/hal-02470156v1/file/EGC2019_KGOnto.pdf"
+ },
+ {
+  "id": "christen2018learning",
+  "title": "A learning-based approach to combine medical annotation results",
+  "authors": [
+   "Victor Christen",
+   "Lin Ying-Chi",
+   "Gross Anika",
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Rahm Erhard"
+  ],
+  "year": 2018,
+  "type": "Conference",
+  "venue": "DILS 2018 LNBI 11371",
+  "doi": "10.1007/978-3-030-06016-9_13",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Semantic annotation",
+   "eHealth"
+  ],
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:JoZmwDi-zQgC"
+ },
+ {
+  "id": "cardoso2018combining",
+  "title": "Combining rules, background knowledge and change patterns to maintain semantic annotations",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Reynaud-Delaître Chantal",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2018,
+  "type": "Conference",
+  "venue": "AMIA Annual Symposium Proceedings",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Semantic annotation"
+  ],
+  "cites": 17,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:3s1wT3WcHBgC"
+ },
+ {
+  "id": "cardoso2018combining-2",
+  "title": "Combining semantic and lexical measures to evaluate medical terms similarity",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Marcos Da Silveira",
+   "Ying-Chi Lin",
+   "Victor Christen",
+   "Erhard Rahm",
+   "Chantal Reynaud-Delaître",
+   "Cédric Pruski"
+  ],
+  "year": 2018,
+  "type": "Conference",
+  "venue": "International Conference on Data Integration in the Life Sciences",
+  "doi": "10.1007/978-3-030-06016-9_2",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "eHealth",
+   "Word meaning"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:1sJd4Hv_s6UC"
+ },
+ {
+  "id": "cardoso2018evolving",
+  "title": "Evolving semantic annotations through multiple versions of controlled medical terminologies",
+  "authors": [
+   "Silvio Cardoso",
+   "Chantal Reynaud-Delaître",
+   "Marcos Da Silveira",
+   "Ying-Chi Lin",
+   "Anika Gro",
+   "Erhard Rahm",
+   "Cédric Pruski"
+  ],
+  "year": 2018,
+  "type": "Journal",
+  "venue": "Health and technology",
+  "doi": "10.1007/s12553-018-0261-3",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "systems",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Semantic annotation",
+   "eHealth",
+   "Discrete event systems"
+  ],
+  "cites": 8,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:xtRiw3GOFMkC"
+ },
+ {
+  "id": "cardoso2018supporting",
+  "title": "Supporting biomedical ontology evolution by identifying outdated concepts and the required type of change",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2018,
+  "type": "Journal",
+  "venue": "Journal of Biomedical Informatics",
+  "doi": "10.1016/j.jbi.2018.08.013",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Ontologies",
+   "eHealth"
+  ],
+  "cites": 25,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:NhqRSupF_l8C",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S1532046418301680/pdf"
+ },
+ {
+  "id": "zamborlini2017analyzing",
+  "title": "Analyzing interactions on combining multiple clinical guidelines",
+  "authors": [
+   "Veruska Zamborlini",
+   "Marcos Da Silveira",
+   "Cedric Pruski",
+   "Annette Ten Teije",
+   "Edwin Geleijn",
+   "Marike van der Leeden",
+   "Martijn Stuiver",
+   "Frank van Harmelen"
+  ],
+  "year": 2017,
+  "type": "Journal",
+  "venue": "Artificial intelligence in medicine",
+  "doi": "10.1016/j.artmed.2017.03.012",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 57,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:g5m5HwL7SMYC",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S0933365717301501"
+ },
+ {
+  "id": "santos2017complaint",
+  "title": "Complaint Ontology Pattern",
+  "authors": [
+   "Cristiana Santos",
+   "Cédric Pruskia",
+   "Marcos Da Silveira",
+   "Victor Rodríguez-Doncel",
+   "Aldo Gangemi",
+   "Leendert Van der Torre",
+   "Pompeu Casanovas"
+  ],
+  "year": 2017,
+  "type": "Journal",
+  "venue": "Santos C., Pruski C., Silveira M., Rodríguez-Doncel V., Casanovas P., Van~…",
+  "doi": "10.3233/978-1-61499-826-6-69",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:WbkHhVStYXYC"
+ },
+ {
+  "id": "silveira2017data",
+  "title": "Data Integration in the Life Sciences: 12th International Conference, DILS 2017, Luxembourg, Luxembourg, November 14-15, 2017, Proceedings",
+  "authors": [
+   "Marcos Renato Silveira",
+   "Cédric Pruski",
+   "Reinhard Schneider"
+  ],
+  "year": 2017,
+  "type": "Other",
+  "venue": "Springer",
+  "doi": "10.1007/978-3-319-69751-2",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 3,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:5Ul4iDaHHb8C"
+ },
+ {
+  "id": "chaabane2017dykosmap",
+  "title": "DyKOSMap: From a Research Prototype to a Web Application",
+  "authors": [
+   "Marwa Chaabane",
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2017,
+  "type": "Conference",
+  "venue": "International Conference on Data Integration in the Life Sciences",
+  "doi": "10.1007/978-3-319-69751-2_7",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:zA6iFVUQeVQC"
+ },
+ {
+  "id": "lin2017evaluating",
+  "title": "Evaluating and improving annotation tools for medical forms",
+  "authors": [
+   "Ying-Chi Lin",
+   "Victor Christen",
+   "Anika Gro",
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Erhard Rahm"
+  ],
+  "year": 2017,
+  "type": "Conference",
+  "venue": "International conference on data integration in the life sciences",
+  "doi": "10.1007/978-3-319-69751-2_1",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Semantic annotation",
+   "eHealth"
+  ],
+  "cites": 14,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:ZHo1McVdvXMC"
+ },
+ {
+  "id": "sais2017inferring",
+  "title": "Inferring the evolution of ontology axioms from RDF data dynamics",
+  "authors": [
+   "Fatiha Saïs",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2017,
+  "type": "Conference",
+  "venue": "Proceedings of the 9th Knowledge Capture Conference",
+  "doi": "10.1145/3148011.3154472",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Ontologies"
+  ],
+  "cites": 10,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:bFI3QPDXJZMC"
+ },
+ {
+  "id": "cardoso2017towards",
+  "title": "Towards a multi-level approach for the maintenance of semantic annotations",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Chantal Reynaud-Delaître",
+   "Marcos Da Silveira",
+   "Ying-Chi Lin",
+   "Anika Gro",
+   "Erhard Rahm",
+   "Cédric Pruski"
+  ],
+  "year": 2017,
+  "type": "Conference",
+  "venue": "International Conference on Health Informatics",
+  "doi": "10.5220/0006230104010406",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Semantic annotation"
+  ],
+  "cites": 3,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:ldfaerwXgEUC"
+ },
+ {
+  "id": "mezghani2016ontology",
+  "title": "An Ontology-driven Adaptive System for the Patient Treatment Management",
+  "authors": [
+   "Emna Mezghani",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Ernesto Exposito",
+   "Khalil Drira"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "28th International Conference on Software Engineering & Knowledge Engineering (SEKE)",
+  "doi": "10.18293/seke2016-155",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontologies",
+   "eHealth"
+  ],
+  "cites": 5,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:ns9cj8rnVeAC",
+  "pdf": "https://doi.org/10.18293/seke2016-155"
+ },
+ {
+  "id": "pruski2016capturing",
+  "title": "Capturing the Relationship between Evolving Biomedical Concepts via Background Knowledge",
+  "authors": [
+   "Cédric Pruski",
+   "Julio Cesar dos Reis",
+   "Marcos Da Silveira"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "9th International Conference on Semantic Web Applications and Tools for the Life Science",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "eHealth"
+  ],
+  "cites": 7,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:35N4QoGY0k4C"
+ },
+ {
+  "id": "santos2016complaint",
+  "title": "Complaint Ontology Pattern-COP",
+  "authors": [
+   "Cristiana Santos",
+   "Cédric Pruski",
+   "Marcos da Silveira",
+   "Víctor Rodríguez-Doncel",
+   "Aldo Gangemi",
+   "Leon Van der Torre",
+   "Pompeu Casanovas"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "Workshop on Ontology and Semantic Web Patterns (WOP2016) at ISWC",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:lSLTfruPkqcC",
+  "pdf": "https://orbilu.uni.lu/bitstream/10993/30682/1/WOP2016_paper_09.pdf"
+ },
+ {
+  "id": "zamborlini2016generalizing",
+  "title": "Generalizing the Detection of Internal and External Interactions in Clinical Guidelines",
+  "authors": [
+   "Veruska Zamborlini",
+   "Rinke Hoekstra",
+   "Marcos Da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "9th International Joint Conference on Biomedical Engineering Systems and Technologies",
+  "doi": "10.5220/0005704101050116",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 8,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:M3NEmzRMIkIC"
+ },
+ {
+  "id": "zamborlini2016generalizing-2",
+  "title": "Generalizing the detection of clinical guideline interactions enhanced with LOD",
+  "authors": [
+   "Veruska Zamborlini",
+   "Rinke Hoekstra",
+   "Marcos Da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "International Joint Conference on Biomedical Engineering Systems and Technologies",
+  "doi": "10.1007/978-3-319-54717-6_20",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:M05iB0D1s5AC"
+ },
+ {
+  "id": "zamborlini2016inferring",
+  "title": "Inferring Recommendation Interactions in Clinical Guidelines: Case-studies on Multimorbidity",
+  "authors": [
+   "V Zamborlini",
+   "R Hoekstra",
+   "M Da Silveira",
+   "C Pruski",
+   "ACM ten Teije",
+   "F van Harmelen"
+  ],
+  "year": 2016,
+  "type": "Journal",
+  "venue": "Semantic Web Journal",
+  "doi": "10.3233/sw-150212",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 43,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:maZDTaKrznsC",
+  "pdf": "https://research.vu.nl/ws/files/1351030/2015SWJ.pdf"
+ },
+ {
+  "id": "zamborlini122016knowledge",
+  "title": "Knowledge-driven Paper Retrieval to support updating of Clinical Guidelines",
+  "authors": [
+   "Veruska Zamborlini12",
+   "Qing Hu",
+   "Zhisheng Huang",
+   "Marcos da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "International Joint Workshop KR4HC 2016 - ProHealth 2016",
+  "doi": "10.1007/978-3-319-55014-5_5",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 9,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:RYcK_YlVTxYC",
+  "pdf": "https://research.vu.nl/files/282723132/Knowledge-Driven_Paper_Retrieval_to_Support_Updating_of_Clinical_Guidelines.pdf"
+ },
+ {
+  "id": "cardoso2016leveraging",
+  "title": "Leveraging the impact of ontology evolution on semantic annotations",
+  "authors": [
+   "Silvio Domingos Cardoso",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Ying-Chi Lin",
+   "Anika Gro",
+   "Erhard Rahm",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "European Knowledge Acquisition Workshop",
+  "doi": "10.1007/978-3-319-49004-5_5",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Semantic annotation",
+   "Ontologies"
+  ],
+  "cites": 32,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:vV6vV6tmYwMC"
+ },
+ {
+  "id": "zamborlini122016swish",
+  "title": "SWISH for prototyping Clinical Guideline Interactions Theory",
+  "authors": [
+   "Veruska Zamborlini12",
+   "Jan Wielemaker",
+   "Marcos da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2016,
+  "type": "Conference",
+  "venue": "9th International Conference on Semantic Web Applications and Tools for the Life Science",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:70eg2SAEIzsC"
+ },
+ {
+  "id": "rodrigo2016special",
+  "title": "Special issue on semantic technologies for collaborative web",
+  "authors": [
+   "Bonacin Rodrigo",
+   "Dessi Nicoletta",
+   "Mariagrazia Fugini",
+   "Nabuco Olga",
+   "MARCO DA SILVEIRA",
+   "others"
+  ],
+  "year": 2016,
+  "type": "Journal",
+  "venue": "Future Generation Computer Systems",
+  "doi": "10.1016/j.future.2015.06.010",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Collaborative systems"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:iH-uZ7U-co4C"
+ },
+ {
+  "id": "ben2016towards",
+  "title": "Towards natural language question generation for the validation of ontologies and mappings",
+  "authors": [
+   "Asma Ben Abacha",
+   "Julio Cesar Dos Reis",
+   "Yassine Mrabet",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2016,
+  "type": "Journal",
+  "venue": "Journal of biomedical semantics",
+  "doi": "10.1186/s13326-016-0089-6",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "Mapping maintenance",
+   "Ontologies"
+  ],
+  "cites": 18,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:RGFaLdJalmkC",
+  "pdf": "https://jbiomedsem.biomedcentral.com/counter/pdf/10.1186/s13326-016-0089-6"
+ },
+ {
+  "id": "mezghani2015semantic",
+  "title": "A Semantic Big Data Platform for Integrating Heterogeneous Wearable Data in Healthcare",
+  "authors": [
+   "E Mezghani",
+   "E Exposito",
+   "K Drira",
+   "M Da Silveira",
+   "C Pruski"
+  ],
+  "year": 2015,
+  "type": "Journal",
+  "venue": "Journal of medical systems",
+  "doi": "10.1007/s10916-015-0344-x",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 145,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:k_IJM867U9cC"
+ },
+ {
+  "id": "zamborlini2015analyzing",
+  "title": "Analyzing Recommendations Interactions in Clinical Guidelines",
+  "authors": [
+   "Veruska Zamborlini",
+   "Marcos da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2015,
+  "type": "Conference",
+  "venue": "15th Conference on Artificial Intelligence in Medicine, AIME 2015, Pavia, Italy, June 17-20, 2015.",
+  "doi": "10.1007/978-3-319-19551-3_40",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 10,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:TFP_iSt0sucC"
+ },
+ {
+  "id": "veruska2015analyzing",
+  "title": "Analyzing Recommendations Interactions in Clinical Guidelines: Impact of action type hierarchies and causation beliefs",
+  "authors": [
+   "Veruska Zamborlini",
+   "Marcos da Silveira",
+   "Cedric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2015,
+  "type": "Conference",
+  "venue": "27TH BENELUX CONFERENCE ON ARTIFICIAL INTELLIGENCE",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:J_g5lzvAfSwC"
+ },
+ {
+  "id": "gumiel2015anatomic",
+  "title": "Anatomic prosthesis modelling based on Descriptors by Cubic Bezier Curves",
+  "authors": [
+   "Yohan GUMIEL",
+   "Marcelo RUDEK",
+   "Gerson L. BICHINHO",
+   "Marcos DA SILVEIRA",
+   "Osiris CANCIGLIERI"
+  ],
+  "year": 2015,
+  "type": "Conference",
+  "venue": "45th International Conference on Computers & Industrial Engineering",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:O3NaXMp0MMsC"
+ },
+ {
+  "id": "dos2015dykosmap",
+  "title": "DyKOSMap: A framework for mapping adaptation between biomedical knowledge organization systems",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2015,
+  "type": "Journal",
+  "venue": "Journal of biomedical informatics",
+  "doi": "10.1016/j.jbi.2015.04.001",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Mapping maintenance",
+   "eHealth"
+  ],
+  "cites": 35,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:_Qo2XoVZTnwC",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S1532046415000684/pdf"
+ },
+ {
+  "id": "da2015management",
+  "title": "Management of Dynamic Biomedical Terminologies: Current Status and Future Challenges",
+  "authors": [
+   "Marcos Da Silveira",
+   "Julio Cesar Dos Reis",
+   "Cedric Pruski"
+  ],
+  "year": 2015,
+  "type": "Journal",
+  "venue": "Yearbook of medical informatics",
+  "doi": "10.15265/iy-2015-002",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "eHealth"
+  ],
+  "cites": 23,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:isC4tDSrTZIC",
+  "pdf": "http://www.thieme-connect.de/products/ejournals/pdf/10.15265/IY-2015-002.pdf"
+ },
+ {
+  "id": "dos2015recognizing",
+  "title": "Recognizing lexical and semantic change patterns in evolving life science ontologies to inform mapping adaptation",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Duy Dinh",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2015,
+  "type": "Journal",
+  "venue": "Artificial intelligence in medicine",
+  "doi": "10.1016/j.artmed.2014.11.002",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "Ontologies",
+   "Word meaning"
+  ],
+  "cites": 10,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:hFOr9nPyWt4C"
+ },
+ {
+  "id": "rudek2015skull",
+  "title": "Skull failure correction modelling method by symmetry mirroring",
+  "authors": [
+   "Marcelo RUDEK",
+   "Gustavo CAMPANA MENDES",
+   "Osiris CANCIGLIERI",
+   "Marcos DA SILVEIRA"
+  ],
+  "year": 2015,
+  "type": "Conference",
+  "venue": "CIE45 - The 45th International Conference on Computers & Industrial Engineering,",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:GnPB-g6toBAC"
+ },
+ {
+  "id": "zamborlini2014conceptual",
+  "title": "A Conceptual Model for Detecting Interactions among Medical Recommendations in Clinical Guidelines",
+  "authors": [
+   "Veruska Zamborlini",
+   "Rinke Hoekstra",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2014,
+  "type": "Book chapter",
+  "venue": "Knowledge Engineering and Knowledge Management",
+  "doi": "10.1007/978-3-319-13704-9_44",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines",
+   "eHealth"
+  ],
+  "cites": 25,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:L8Ckcad2t8MC"
+ },
+ {
+  "id": "mezghani2014perspective",
+  "title": "A perspective of adaptation in healthcare",
+  "authors": [
+   "Emna Mezghani",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Ernesto Expósito",
+   "Khalil Drira"
+  ],
+  "year": 2014,
+  "type": "Book chapter",
+  "venue": "e-Health–For Continuity of Care",
+  "doi": "10.3233/978-1-61499-432-9-206",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:ZeXyd9-uunAC"
+ },
+ {
+  "id": "dinh2014identifying",
+  "title": "Identifying change patterns of concept attributes in ontology evolution",
+  "authors": [
+   "Duy Dinh",
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2014,
+  "type": "Book chapter",
+  "venue": "(ESWC) The Semantic Web: Trends and Challenges",
+  "doi": "10.1007/978-3-319-07443-6_51",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Ontologies"
+  ],
+  "cites": 14,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:mVmsd5A6BfQC"
+ },
+ {
+  "id": "dinh2014identifying-2",
+  "title": "Identifying relevant concept attributes to support mapping maintenance under ontology evolution",
+  "authors": [
+   "Duy Dinh",
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2014,
+  "type": "Journal",
+  "venue": "Journal of Web semantics",
+  "doi": "10.1016/j.websem.2014.05.002",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "Ontologies"
+  ],
+  "cites": 36,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:TQgYirikUcIC"
+ },
+ {
+  "id": "dos2014requirements",
+  "title": "Requirements for Implementing Mappings Adaptation Systems",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Marcos Da Silveira",
+   "Duy Dinh",
+   "Cédric Pruski",
+   "Chantal Reynaud"
+  ],
+  "year": 2014,
+  "type": "Conference",
+  "venue": "Web2Touch 2014 Modelling The Collaborative Web Knowledge, Conference Track@ the 23rd WETICE Conference",
+  "doi": "10.1109/wetice.2014.58",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "language-skills"
+  ],
+  "topics": [
+   "Mapping maintenance"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:7PzlFSSx8tAC"
+ },
+ {
+  "id": "dos2014influence",
+  "title": "The influence of similarity between concepts in evolving biomedical ontologies for mapping adaptation",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Dinh Duy",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud"
+  ],
+  "year": 2014,
+  "type": "Journal",
+  "venue": "Studies in Health Technology and Informatics",
+  "doi": "10.3233/978-1-61499-432-9-1003",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "Ontologies",
+   "eHealth"
+  ],
+  "cites": 3,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:dhFuZR0502QC"
+ },
+ {
+  "id": "zamborlini2014towards",
+  "title": "Towards a conceptual model for enhancing reasoning about clinical guidelines: A case-study on comorbidity",
+  "authors": [
+   "Veruska Zamborlini",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Annette ten Teije",
+   "Frank van Harmelen"
+  ],
+  "year": 2014,
+  "type": "Conference",
+  "venue": "Workshop on Knowledge Representation for Health-Care Data, Processes and Guidelines",
+  "doi": "10.1007/978-3-319-13281-5_3",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 25,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:IWHjjKOFINEC"
+ },
+ {
+  "id": "dos2014understanding",
+  "title": "Understanding semantic mapping evolution by observing changes in biomedical ontologies",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2014,
+  "type": "Journal",
+  "venue": "Journal of biomedical informatics",
+  "doi": "10.1016/j.jbi.2013.09.006",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "Ontologies",
+   "eHealth"
+  ],
+  "cites": 49,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:aqlVkmm33-oC",
+  "pdf": "https://www.sciencedirect.com/science/article/pii/S1532046413001470/pdf"
+ },
+ {
+  "id": "nabuco2014web2touch",
+  "title": "Web2Touch 2014 Modeling the Collaborative Web Knowledge",
+  "authors": [
+   "O Nabuco",
+   "R Bonacin",
+   "Mariagrazia Fugini",
+   "M Da Silveira",
+   "others"
+  ],
+  "year": 2014,
+  "type": "Conference",
+  "venue": "WETICE Conference (WETICE), 2014 IEEE 23rd International",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Collaborative systems"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:EUQCXRtRnyEC"
+ },
+ {
+  "id": "dos2013analyzing",
+  "title": "Analyzing the Evolution of Semantic Correspondences between SNOMED CT and ICD-9-CM",
+  "authors": [
+   "Julio DOS REIS",
+   "Cedric PRUSKI",
+   "Marcos DA SILVEIRA",
+   "Chantal REYNAUD-DELAITRE"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "The International Educational and Networking Forum for eHealth, Telemedicine and Health ICT",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "Ontology evolution"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:YOwf2qJgpHMC"
+ },
+ {
+  "id": "bonacin2013architecture",
+  "title": "Architecture and services for formalising and evaluating care actions from computer-interpretable guidelines",
+  "authors": [
+   "Rodrigo Bonacin",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2013,
+  "type": "Journal",
+  "venue": "International Journal of Medical Engineering and Informatics",
+  "doi": "10.1504/ijmei.2013.055716",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 11,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:QIV2ME_5wuYC"
+ },
+ {
+  "id": "dos2013characterizing",
+  "title": "Characterizing semantic mappings adaptation via biomedical kos evolution: A case study investigating snomed ct and icd",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "AMIA Annual Symposium Proceedings",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "eHealth"
+  ],
+  "cites": 19,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:Wp0gIr-vW9MC"
+ },
+ {
+  "id": "dinh2013identification",
+  "title": "Identification des informations conceptuelles définissant un alignement entre ontologies médicales",
+  "authors": [
+   "Duy Dinh",
+   "Julio Cesar Dos Reis",
+   "Marcos Da Silveira",
+   "Cédric Pruski",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "II Symposium sur l'Ingénierie de l'Information Médicale - SIIM",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:qxL8FJ1GzNcC"
+ },
+ {
+  "id": "dos2013mapping",
+  "title": "Mapping adaptation actions for the automatic reconciliation of dynamic ontologies",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Duy Dinh",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "Proceedings of the 22nd ACM international conference on Information & Knowledge Management",
+  "doi": "10.1145/2505515.2505564",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontology evolution",
+   "Mapping maintenance",
+   "Ontologies"
+  ],
+  "cites": 38,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:4DMP91E08xMC"
+ },
+ {
+  "id": "ben2013medical",
+  "title": "Medical ontology validation through question answering",
+  "authors": [
+   "Asma Ben Abacha",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "Conference on Artificial Intelligence in Medicine in Europe",
+  "doi": "10.1007/978-3-642-38326-7_30",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontologies",
+   "eHealth"
+  ],
+  "cites": 23,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:Zph67rFs4hoC"
+ },
+ {
+  "id": "ben2013approche",
+  "title": "Une approche pour la validation du contenu d’une ontologie par un système à base de questions/réponses",
+  "authors": [
+   "Asma BEN ABACHA",
+   "Marcos DA SILVEIRA",
+   "Cedric PRUSKI"
+  ],
+  "year": 2013,
+  "type": "Conference",
+  "venue": "Plate-forme IA",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Ontologies"
+  ],
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:M3ejUd6NZC8C",
+  "pdf": "https://inria.hal.science/hal-01103777v1/document"
+ },
+ {
+  "id": "dos2012analyzing",
+  "title": "Analyzing and supporting the mapping maintenance problem in biomedical knowledge organization systems",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2012,
+  "type": "Conference",
+  "venue": "In Proc. of SIMI Workshop at ESWC",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Mapping maintenance",
+   "eHealth"
+  ],
+  "cites": 27,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:0EnyYjriUFMC"
+ },
+ {
+  "id": "bonacin2012careflow",
+  "title": "Careflow personalization services: concepts and tool for the evaluation of computer-interpretable guidelines",
+  "authors": [
+   "Rodrigo Bonacin",
+   "Cédric Pruski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2012,
+  "type": "Journal",
+  "venue": "Knowledge Representation for Health-Care",
+  "doi": "10.1007/978-3-642-27697-2_6",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:5nxA0vEk-isC"
+ },
+ {
+  "id": "dos2012dykosmap",
+  "title": "The DyKOSMap approach for analyzing and supporting the mapping maintenance problem in biomedical knowledge organization systems",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2012,
+  "type": "Conference",
+  "venue": "Extended Semantic Web Conference",
+  "doi": "10.1007/978-3-662-46641-4_12",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Mapping maintenance",
+   "eHealth"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:4JMBOYKVnBMC"
+ },
+ {
+  "id": "dos2012vers",
+  "title": "Vers une approche automatique pour la maintenance des mappings entre ressources termino-ontologiques du domaine de la santé",
+  "authors": [
+   "Julio Cesar Dos Reis",
+   "Cédric Pruski",
+   "Marcos Da Silveira",
+   "Chantal Reynaud-Delaître"
+  ],
+  "year": 2012,
+  "type": "Conference",
+  "venue": "Atelier IC pour l'interopérabilité Sémantique dans les applications de e-Santé",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge"
+  ],
+  "topics": [
+   "Mapping maintenance",
+   "Ontologies"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:8k81kl-MbHgC"
+ },
+ {
+  "id": "nabuco2012web2touch",
+  "title": "Web2Touch Track Report: 5th Track on Modeling the Collaborative Web Knowledge",
+  "authors": [
+   "Olga Nabuco",
+   "Rodrigo Bonacin",
+   "Mariagrazia Fugini",
+   "Marcos Renato da Silveira"
+  ],
+  "year": 2012,
+  "type": "Conference",
+  "venue": "2012 IEEE 21st International Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises",
+  "doi": "10.1109/wetice.2012.103",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [
+   "Collaborative systems"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:Se3iqnhoufwC"
+ },
+ {
+  "id": "nabuco2011choices",
+  "title": "Choices and internet service management",
+  "authors": [
+   "O Nabuco",
+   "Mariagrazia Fugini",
+   "M Da Silveira",
+   "K Drira",
+   "R Bonacin",
+   "others"
+  ],
+  "year": 2011,
+  "type": "Journal",
+  "venue": "INTERNATIONAL JOURNAL OF WEB PORTALS (PRINT)",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:_xSYboBqXhAC"
+ },
+ {
+  "id": "benzschawel2011protecting",
+  "title": "Protecting patient privacy when sharing medical data",
+  "authors": [
+   "Stefan Benzschawel",
+   "Marcos Da Silveira"
+  ],
+  "year": 2011,
+  "type": "Conference",
+  "venue": "Proceedings of the 3rd International Conference on eHealth, Telemedicine, and Social Medicine (eTelemed), France",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 11,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:_FxGoFyzp5QC"
+ },
+ {
+  "id": "da2011toward",
+  "title": "Toward an adaptive computer-interpretable clinical guideline for personalization of treatments",
+  "authors": [
+   "Marcos Da Silveira",
+   "Rodrigo Bonacin",
+   "Cédric Pruski"
+  ],
+  "year": 2011,
+  "type": "Journal",
+  "venue": "",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:UebtZRa9Y70C"
+ },
+ {
+  "id": "pruski2011towards",
+  "title": "Towards the formalization of guidelines care actions using patterns and semantic web technologies",
+  "authors": [
+   "Cédric Pruski",
+   "Rodrigo Bonacin",
+   "Marcos Da Silveira"
+  ],
+  "year": 2011,
+  "type": "Journal",
+  "venue": "Artificial Intelligence in Medicine",
+  "doi": "10.1007/978-3-642-22218-4_38",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Clinical guidelines"
+  ],
+  "cites": 11,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:roLk4NBRz8UC"
+ },
+ {
+  "id": "nabuco2011foreword",
+  "title": "“Foreword Web2Touch: Living experience through the web”",
+  "authors": [
+   "O Nabuco",
+   "Mariagrazia Fugini",
+   "M Da Silveira",
+   "K Drira",
+   "others"
+  ],
+  "year": 2011,
+  "type": "Book chapter",
+  "venue": "International Journal of Web Portals",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "language-skills"
+  ],
+  "topics": [],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:b0M2c_1WBrUC"
+ },
+ {
+  "id": "pruski2010barriers",
+  "title": "Barriers to overcome for the implementation of integrated eHealth solution in Luxembourg",
+  "authors": [
+   "Cédric Pruski",
+   "François Wisniewski",
+   "Marcos Da Silveira"
+  ],
+  "year": 2010,
+  "type": "Conference",
+  "venue": "eChallenges e-2010 Conference",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 4,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:LkGwnXOMwfcC"
+ },
+ {
+  "id": "bonacin2010medical",
+  "title": "From medical guidelines to personalized careflows: The iCareflow ontological framework",
+  "authors": [
+   "Rodrigo Bonacin",
+   "Marcos Da Silveira",
+   "Cédric Pruski"
+  ],
+  "year": 2010,
+  "type": "Conference",
+  "venue": "2010 IEEE 23rd International Symposium on Computer-Based Medical Systems (CBMS)",
+  "doi": "10.1109/cbms.2010.6042689",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health"
+  ],
+  "topics": [
+   "Ontologies",
+   "Clinical guidelines",
+   "eHealth"
+  ],
+  "cites": 5,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:WF5omc3nYNoC"
+ },
+ {
+  "id": "benzschawel2010infrastructure",
+  "title": "IT infrastructure for National Electronic Health Records in Luxembourg–Acceptance occurs when benefits outweigh disadvantages",
+  "authors": [
+   "Stefan Benzschawel",
+   "Heiko Zimmermann",
+   "Marcos Da Silveira",
+   "Uwe Roth",
+   "A Jahnen"
+  ],
+  "year": 2010,
+  "type": "Journal",
+  "venue": "Global Telemedicine and eHealth Updates: Knowledge Resources",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 2,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:ufrVoPGSRksC"
+ },
+ {
+  "id": "da2009concept",
+  "title": "The concept of a platform for remote monitoring patient’s health state",
+  "authors": [
+   "Marcos DA SILVEIRA",
+   "Nicolas GUELFI"
+  ],
+  "year": 2009,
+  "type": "Conference",
+  "venue": "The International Educational and Networking Forum for eHealth, Telemedicine and Health ICT",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "health",
+   "language-skills"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:MXK_kJrjxJIC"
+ },
+ {
+  "id": "da2008survey",
+  "title": "A survey of interoperability in e-Health systems: The European approach",
+  "authors": [
+   "Marcos DA SILVEIRA",
+   "Nicolas GUELFI",
+   "Jerry-David BALDACCHINO",
+   "Pierre PLUMER",
+   "Marc SEIL",
+   "Anke WIENCKE"
+  ],
+  "year": 2008,
+  "type": "Conference",
+  "venue": "International Conference on Health Informatics",
+  "doi": "10.5220/0001038701720175",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 20,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:3fE2CSJIrl8C"
+ },
+ {
+  "id": "da2008exploiting",
+  "title": "Exploiting Service Oriented Architectures for the Design of e-Health systems",
+  "authors": [
+   "Marcos DA SILVEIRA",
+   "Nicolas GUELFI"
+  ],
+  "year": 2008,
+  "type": "Conference",
+  "venue": "International Conference on Health Informatics",
+  "doi": "10.5220/0001038602190224",
+  "url": "",
+  "themes": [
+   "health"
+  ],
+  "topics": [
+   "eHealth"
+  ],
+  "cites": 9,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:kNdYIx-mwKoC"
+ },
+ {
+  "id": "da2006supervision",
+  "title": "Supervision and control of heterarchical discrete event systems",
+  "authors": [
+   "Marcos R Da Silveira",
+   "Michel Combacau"
+  ],
+  "year": 2006,
+  "type": "Journal",
+  "venue": "Sba: Controle & Automação Sociedade Brasileira de Automatica",
+  "doi": "10.1590/s0103-17592006000100001",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 12,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:u-x6o8ySG0sC",
+  "pdf": "https://www.scielo.br/j/ca/a/zBpFBCXxmtKhfvKzktb5NwL/?lang=en&format=pdf"
+ },
+ {
+  "id": "da2005redundant",
+  "title": "Redundant Information Analysis in a Decomposed Petri Net Model",
+  "authors": [
+   "Marcos Da Silveira",
+   "Michel Combacau",
+   "Eduardo Portela"
+  ],
+  "year": 2005,
+  "type": "Conference",
+  "venue": "International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce (CIMCA-IAWTIC'06)",
+  "doi": "10.1109/cimca.2005.1631559",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:YsMSGLbcyi4C"
+ },
+ {
+  "id": "santos2004methodology",
+  "title": "A methodology for modeling the control of a mechatronic manufacturing cell",
+  "authors": [
+   "Eduardo AP Santos",
+   "MAB de Paula",
+   "MR da Silveira"
+  ],
+  "year": 2004,
+  "type": "Conference",
+  "venue": "9th Mechatronics Forum International Conference",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 3,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:UeHWp8X0CEIC"
+ },
+ {
+  "id": "santos2004approach",
+  "title": "AN APPROACH TO THE DEVELOPMENT CYCLE OF AUTOMATED MANUFACTURING SYSTEMS",
+  "authors": [
+   "Eduardo AP Santos",
+   "Marco A Busetti",
+   "Marcos R da Silveira"
+  ],
+  "year": 2004,
+  "type": "Conference",
+  "venue": "7th IFAC Symposium on Cost Oriented Automation, Ottawa, Canada",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:eQOLeE2rZwMC"
+ },
+ {
+  "id": "santos2004reutilization",
+  "title": "REUTILIZATION OF CONTROL SOFTWARE MODULES IN DESIGN OF AUTOMATED MANUFACTURING SYSTEMS",
+  "authors": [
+   "Eduardo AP Santos",
+   "Marco A Busetti",
+   "Marcos R da Silveira"
+  ],
+  "year": 2004,
+  "type": "Conference",
+  "venue": "7th IFAC Symposium on Cost Oriented Automation, Ottawa, Canada",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 0,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:zYLM7Y9cAGgC"
+ },
+ {
+  "id": "da2003distribution-2",
+  "title": "Distribution de modèles à événements discrets: une procédure systématique basée sur les réseaux Petri",
+  "authors": [
+   "Marcos Da Silveira",
+   "M Combacau"
+  ],
+  "year": 2003,
+  "type": "Conference",
+  "venue": "4 ème Colloque Francophone sur la Modélisation des Systèmes Réactifs, Metz, France",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 6,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:qjMakFHDy7sC"
+ },
+ {
+  "id": "loures2003enhancing",
+  "title": "Enhancing control engineering education using a CACSD didactic environment",
+  "authors": [
+   "Eduardo Rocha Loures",
+   "Marcos R Silveira",
+   "Marco Antonio Busetti",
+   "Yasemin Arda"
+  ],
+  "year": 2003,
+  "type": "Conference",
+  "venue": "SMC'03 Conference Proceedings. 2003 IEEE International Conference on Systems, Man and Cybernetics. Conference Theme-System Security and Assurance (Cat. No. 03CH37483)",
+  "doi": "10.1109/icsmc.2003.1244211",
+  "url": "",
+  "themes": [
+   "systems",
+   "language-skills"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:HoB7MX3m0LUC"
+ },
+ {
+  "id": "da2003prognosis",
+  "title": "Prognosis and recovery evaluation in flexible manufacturing supervision",
+  "authors": [
+   "Marcos Da Silveira",
+   "Michel Combacau",
+   "Amine Boufaied"
+  ],
+  "year": 2003,
+  "type": "Journal",
+  "venue": "Journal of decision systems",
+  "doi": "10.3166/jds.12.93-109",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 15,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:9yKSN-GCB0IC"
+ },
+ {
+  "id": "da2003distribution",
+  "title": "Sur la distribution avec redondance partielle de modèles à événements discrets pour la supervision de procédés industriels",
+  "authors": [
+   "Marcos Da Silveira"
+  ],
+  "year": 2003,
+  "type": "Thesis",
+  "venue": "Université Paul Sabatier",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 12,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:u5HHmVD_uO8C"
+ },
+ {
+  "id": "da2002centralized",
+  "title": "From centralized to distributed models: A systematic procedure based on Petri nets",
+  "authors": [
+   "Marcos Da Silveira",
+   "Michel Combacau",
+   "Audine Subias"
+  ],
+  "year": 2002,
+  "type": "Conference",
+  "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+  "doi": "10.1109/ICSMC.2002.1168000",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 15,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:d1gkVwhDpl0C"
+ },
+ {
+  "id": "da2002supervision",
+  "title": "Supervision and control of heterarchical discrete event systems: The laas approach",
+  "authors": [
+   "Marcos R Da Silveira",
+   "Michel Combacau"
+  ],
+  "year": 2002,
+  "type": "Conference",
+  "venue": "CBA-Congresso Brasileiro de Automática, Natal, Brazil",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 3,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:2osOgNQ5qMEC"
+ },
+ {
+  "id": "silveira1999integration",
+  "title": "Integration of Computer Science Concepts into A Control and Automation Teaching Methodology: The Conception of A Didactic Laboratory",
+  "authors": [
+   "Marcos Renato SILVEIRA",
+   "Lúcia Valéria R. ARRUDA"
+  ],
+  "year": 1999,
+  "type": "Conference",
+  "venue": "14th World Congress of International Federation of Automatic Control",
+  "doi": "10.1016/s1474-6670(17)57100-1",
+  "url": "",
+  "themes": [
+   "evolving-knowledge",
+   "systems",
+   "language-skills"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 1,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:RHpTSmoSYBkC"
+ },
+ {
+  "id": "silveira1998desenvolvimento",
+  "title": "Desenvolvimento de um Sistema Multimídia para a Autoria e Apresentação de Cursos de Controle",
+  "authors": [
+   "M Silveira",
+   "L Arruda"
+  ],
+  "year": 1998,
+  "type": "Conference",
+  "venue": "3rd Symposium Investigation and Development of Educational Software. Évora-Portugal",
+  "doi": "",
+  "url": "",
+  "themes": [
+   "systems",
+   "language-skills"
+  ],
+  "topics": [
+   "Discrete event systems"
+  ],
+  "cites": 5,
+  "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tS76PyMAAAAJ&citation_for_view=tS76PyMAAAAJ:SeFeTyx0c_EC"
+ }
+]
